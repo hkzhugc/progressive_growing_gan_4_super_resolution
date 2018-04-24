@@ -1,0 +1,2191 @@
+2018-03-12 16:19:35,986 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-12 16:19:35,986 - __main__ - INFO - svg_dir == test_input3/
+2018-03-12 16:19:35,987 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-12 16:19:35,987 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-12 16:19:35,987 - __main__ - INFO - test_output_dir == test_output/
+2018-03-12 16:19:35,987 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-12 16:19:35,987 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-12 16:19:35,987 - __main__ - INFO - model_name == model4
+2018-03-12 16:19:35,987 - __main__ - INFO - big_loop == 1
+2018-03-12 16:19:35,987 - __main__ - INFO - epoch_init == 1000
+2018-03-12 16:19:35,987 - __main__ - INFO - strides == 20
+2018-03-12 16:19:35,987 - __main__ - INFO - batch_size == 4
+2018-03-12 16:19:35,987 - __main__ - INFO - max_idx == 80
+2018-03-12 16:19:35,988 - __main__ - INFO - data_size == 112
+2018-03-12 16:19:35,988 - __main__ - INFO - lr_init == 0.0001
+2018-03-12 16:19:35,988 - __main__ - INFO - learning_rate == 1e-05
+2018-03-12 16:19:35,988 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-12 16:19:35,988 - __main__ - INFO - use_vgg == False
+2018-03-12 16:19:35,988 - __main__ - INFO - use_L1_loss == False
+2018-03-12 16:19:35,988 - __main__ - INFO - wgan == False
+2018-03-12 16:19:35,988 - __main__ - INFO - init_g == True
+2018-03-12 16:19:35,988 - __main__ - INFO - init_d == True
+2018-03-12 16:19:35,988 - __main__ - INFO - init_b == False
+2018-03-12 16:19:35,988 - __main__ - INFO - method == 0
+2018-03-12 16:19:35,988 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-12 16:19:35,989 - __main__ - INFO - train_net == True
+2018-03-12 16:19:35,989 - __main__ - INFO - resume_network == False
+2018-03-12 16:21:35,708 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-12 16:21:35,708 - __main__ - INFO - svg_dir == test_input3/
+2018-03-12 16:21:35,708 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-12 16:21:35,708 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-12 16:21:35,708 - __main__ - INFO - test_output_dir == test_output/
+2018-03-12 16:21:35,709 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-12 16:21:35,709 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-12 16:21:35,709 - __main__ - INFO - model_name == model4
+2018-03-12 16:21:35,709 - __main__ - INFO - big_loop == 1
+2018-03-12 16:21:35,709 - __main__ - INFO - epoch_init == 1000
+2018-03-12 16:21:35,709 - __main__ - INFO - strides == 20
+2018-03-12 16:21:35,710 - __main__ - INFO - batch_size == 4
+2018-03-12 16:21:35,710 - __main__ - INFO - max_idx == 80
+2018-03-12 16:21:35,710 - __main__ - INFO - data_size == 112
+2018-03-12 16:21:35,710 - __main__ - INFO - lr_init == 0.0001
+2018-03-12 16:21:35,710 - __main__ - INFO - learning_rate == 1e-05
+2018-03-12 16:21:35,710 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-12 16:21:35,710 - __main__ - INFO - use_vgg == False
+2018-03-12 16:21:35,710 - __main__ - INFO - use_L1_loss == False
+2018-03-12 16:21:35,710 - __main__ - INFO - wgan == False
+2018-03-12 16:21:35,710 - __main__ - INFO - init_g == True
+2018-03-12 16:21:35,710 - __main__ - INFO - init_d == True
+2018-03-12 16:21:35,711 - __main__ - INFO - init_b == False
+2018-03-12 16:21:35,711 - __main__ - INFO - method == 0
+2018-03-12 16:21:35,711 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-12 16:21:35,711 - __main__ - INFO - train_net == True
+2018-03-12 16:21:35,711 - __main__ - INFO - resume_network == False
+2018-03-12 16:23:42,491 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-12 16:23:42,491 - __main__ - INFO - svg_dir == test_input3/
+2018-03-12 16:23:42,491 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-12 16:23:42,491 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-12 16:23:42,491 - __main__ - INFO - test_output_dir == test_output/
+2018-03-12 16:23:42,492 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-12 16:23:42,492 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-12 16:23:42,492 - __main__ - INFO - model_name == model4
+2018-03-12 16:23:42,492 - __main__ - INFO - big_loop == 1
+2018-03-12 16:23:42,492 - __main__ - INFO - epoch_init == 1000
+2018-03-12 16:23:42,492 - __main__ - INFO - strides == 20
+2018-03-12 16:23:42,492 - __main__ - INFO - batch_size == 4
+2018-03-12 16:23:42,492 - __main__ - INFO - max_idx == 80
+2018-03-12 16:23:42,492 - __main__ - INFO - data_size == 112
+2018-03-12 16:23:42,492 - __main__ - INFO - lr_init == 0.0001
+2018-03-12 16:23:42,493 - __main__ - INFO - learning_rate == 1e-05
+2018-03-12 16:23:42,493 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-12 16:23:42,493 - __main__ - INFO - use_vgg == False
+2018-03-12 16:23:42,493 - __main__ - INFO - use_L1_loss == False
+2018-03-12 16:23:42,493 - __main__ - INFO - wgan == False
+2018-03-12 16:23:42,493 - __main__ - INFO - init_g == True
+2018-03-12 16:23:42,493 - __main__ - INFO - init_d == True
+2018-03-12 16:23:42,493 - __main__ - INFO - init_b == False
+2018-03-12 16:23:42,493 - __main__ - INFO - method == 0
+2018-03-12 16:23:42,493 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-12 16:23:42,493 - __main__ - INFO - train_net == True
+2018-03-12 16:23:42,494 - __main__ - INFO - resume_network == False
+2018-03-12 16:36:13,307 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-12 16:36:13,307 - __main__ - INFO - svg_dir == test_input3/
+2018-03-12 16:36:13,309 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-12 16:36:13,309 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-12 16:36:13,309 - __main__ - INFO - test_output_dir == test_output/
+2018-03-12 16:36:13,309 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-12 16:36:13,309 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-12 16:36:13,309 - __main__ - INFO - model_name == model4
+2018-03-12 16:36:13,309 - __main__ - INFO - big_loop == 1
+2018-03-12 16:36:13,310 - __main__ - INFO - epoch_init == 1000
+2018-03-12 16:36:13,310 - __main__ - INFO - strides == 20
+2018-03-12 16:36:13,310 - __main__ - INFO - batch_size == 4
+2018-03-12 16:36:13,310 - __main__ - INFO - max_idx == 80
+2018-03-12 16:36:13,310 - __main__ - INFO - data_size == 112
+2018-03-12 16:36:13,310 - __main__ - INFO - lr_init == 0.0001
+2018-03-12 16:36:13,310 - __main__ - INFO - learning_rate == 1e-05
+2018-03-12 16:36:13,310 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-12 16:36:13,310 - __main__ - INFO - use_vgg == False
+2018-03-12 16:36:13,310 - __main__ - INFO - use_L1_loss == False
+2018-03-12 16:36:13,311 - __main__ - INFO - wgan == False
+2018-03-12 16:36:13,311 - __main__ - INFO - init_g == True
+2018-03-12 16:36:13,311 - __main__ - INFO - init_d == True
+2018-03-12 16:36:13,311 - __main__ - INFO - init_b == False
+2018-03-12 16:36:13,311 - __main__ - INFO - method == 0
+2018-03-12 16:36:13,311 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-12 16:36:13,311 - __main__ - INFO - train_net == True
+2018-03-12 16:36:13,311 - __main__ - INFO - resume_network == False
+2018-03-12 16:36:13,311 - __main__ - INFO - start building the net
+2018-03-12 16:36:35,638 - __main__ - INFO - start training the net
+2018-03-12 16:36:39,956 - __main__ - INFO - end training the net
+2018-03-12 16:36:39,956 - __main__ - INFO - load params
+2018-03-12 16:36:40,699 - __main__ - INFO - read pics
+2018-03-12 16:36:41,006 - __main__ - INFO - start evaluating pics
+2018-03-12 16:36:49,818 - __main__ - INFO - end evaluating pics
+2018-03-12 16:53:49,775 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-12 16:53:49,776 - __main__ - INFO - svg_dir == test_input3/
+2018-03-12 16:53:49,776 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-12 16:53:49,776 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-12 16:53:49,776 - __main__ - INFO - test_output_dir == test_output/
+2018-03-12 16:53:49,776 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-12 16:53:49,776 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-12 16:53:49,776 - __main__ - INFO - model_name == model4
+2018-03-12 16:53:49,776 - __main__ - INFO - big_loop == 1
+2018-03-12 16:53:49,776 - __main__ - INFO - epoch_init == 1000
+2018-03-12 16:53:49,776 - __main__ - INFO - strides == 20
+2018-03-12 16:53:49,776 - __main__ - INFO - batch_size == 4
+2018-03-12 16:53:49,776 - __main__ - INFO - max_idx == 80
+2018-03-12 16:53:49,776 - __main__ - INFO - data_size == 112
+2018-03-12 16:53:49,776 - __main__ - INFO - lr_init == 0.0001
+2018-03-12 16:53:49,776 - __main__ - INFO - learning_rate == 1e-05
+2018-03-12 16:53:49,777 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-12 16:53:49,777 - __main__ - INFO - use_vgg == False
+2018-03-12 16:53:49,777 - __main__ - INFO - use_L1_loss == False
+2018-03-12 16:53:49,777 - __main__ - INFO - wgan == False
+2018-03-12 16:53:49,777 - __main__ - INFO - init_g == True
+2018-03-12 16:53:49,777 - __main__ - INFO - init_d == True
+2018-03-12 16:53:49,777 - __main__ - INFO - init_b == False
+2018-03-12 16:53:49,777 - __main__ - INFO - method == 0
+2018-03-12 16:53:49,777 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-12 16:53:49,777 - __main__ - INFO - train_net == True
+2018-03-12 16:53:49,777 - __main__ - INFO - generate_pics == True
+2018-03-12 16:53:49,777 - __main__ - INFO - resume_network == False
+2018-03-12 16:53:49,777 - __main__ - INFO - start building the net
+2018-03-12 16:54:11,821 - __main__ - INFO - start training the net
+2018-03-12 19:24:40,316 - __main__ - INFO - end training the net
+2018-03-12 19:24:40,316 - __main__ - INFO - load params
+2018-03-12 19:24:41,064 - __main__ - INFO - read pics
+2018-03-12 19:24:41,374 - __main__ - INFO - start evaluating pics
+2018-03-12 19:24:50,036 - __main__ - INFO - end evaluating pics
+2018-03-13 15:49:20,310 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-13 15:49:20,310 - __main__ - INFO - svg_dir == test_input3/
+2018-03-13 15:49:20,310 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-13 15:49:20,310 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-13 15:49:20,310 - __main__ - INFO - test_output_dir == test_output/
+2018-03-13 15:49:20,310 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-13 15:49:20,310 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-13 15:49:20,310 - __main__ - INFO - model_name == model4
+2018-03-13 15:49:20,310 - __main__ - INFO - big_loop == 1
+2018-03-13 15:49:20,310 - __main__ - INFO - epoch_init == 1000
+2018-03-13 15:49:20,310 - __main__ - INFO - strides == 20
+2018-03-13 15:49:20,310 - __main__ - INFO - batch_size == 4
+2018-03-13 15:49:20,310 - __main__ - INFO - max_idx == 80
+2018-03-13 15:49:20,310 - __main__ - INFO - data_size == 112
+2018-03-13 15:49:20,310 - __main__ - INFO - lr_init == 0.0001
+2018-03-13 15:49:20,310 - __main__ - INFO - learning_rate == 1e-05
+2018-03-13 15:49:20,310 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-13 15:49:20,311 - __main__ - INFO - use_vgg == False
+2018-03-13 15:49:20,311 - __main__ - INFO - use_L1_loss == False
+2018-03-13 15:49:20,311 - __main__ - INFO - wgan == False
+2018-03-13 15:49:20,311 - __main__ - INFO - init_g == True
+2018-03-13 15:49:20,311 - __main__ - INFO - init_d == True
+2018-03-13 15:49:20,311 - __main__ - INFO - init_b == False
+2018-03-13 15:49:20,311 - __main__ - INFO - method == 0
+2018-03-13 15:49:20,311 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-13 15:49:20,311 - __main__ - INFO - train_net == True
+2018-03-13 15:49:20,311 - __main__ - INFO - generate_pics == True
+2018-03-13 15:49:20,311 - __main__ - INFO - resume_network == False
+2018-03-13 15:49:20,311 - __main__ - INFO - start building the net
+2018-03-13 15:49:42,284 - __main__ - INFO - start training the net
+2018-03-13 18:12:11,421 - __main__ - INFO - end training the net
+2018-03-13 18:12:11,422 - __main__ - INFO - load params
+2018-03-13 18:12:12,136 - __main__ - INFO - read pics
+2018-03-13 18:12:12,458 - __main__ - INFO - start evaluating pics
+2018-03-13 18:12:20,651 - __main__ - INFO - end evaluating pics
+2018-03-13 18:40:30,099 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-13 18:40:30,099 - __main__ - INFO - svg_dir == test_input3/
+2018-03-13 18:40:30,099 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-13 18:40:30,099 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-13 18:40:30,099 - __main__ - INFO - test_output_dir == test_output/
+2018-03-13 18:40:30,099 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-13 18:40:30,099 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-13 18:40:30,099 - __main__ - INFO - model_name == model4
+2018-03-13 18:40:30,099 - __main__ - INFO - big_loop == 1
+2018-03-13 18:40:30,099 - __main__ - INFO - epoch_init == 5000
+2018-03-13 18:40:30,099 - __main__ - INFO - strides == 20
+2018-03-13 18:40:30,099 - __main__ - INFO - batch_size == 4
+2018-03-13 18:40:30,099 - __main__ - INFO - max_idx == 80
+2018-03-13 18:40:30,099 - __main__ - INFO - data_size == 112
+2018-03-13 18:40:30,099 - __main__ - INFO - lr_init == 0.0001
+2018-03-13 18:40:30,099 - __main__ - INFO - learning_rate == 1e-05
+2018-03-13 18:40:30,099 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-13 18:40:30,099 - __main__ - INFO - use_vgg == False
+2018-03-13 18:40:30,099 - __main__ - INFO - use_L1_loss == False
+2018-03-13 18:40:30,099 - __main__ - INFO - wgan == False
+2018-03-13 18:40:30,100 - __main__ - INFO - init_g == True
+2018-03-13 18:40:30,100 - __main__ - INFO - init_d == True
+2018-03-13 18:40:30,100 - __main__ - INFO - init_b == False
+2018-03-13 18:40:30,100 - __main__ - INFO - method == 0
+2018-03-13 18:40:30,100 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-13 18:40:30,100 - __main__ - INFO - train_net == True
+2018-03-13 18:40:30,100 - __main__ - INFO - generate_pics == True
+2018-03-13 18:40:30,100 - __main__ - INFO - resume_network == False
+2018-03-13 18:40:30,100 - __main__ - INFO - start building the net
+2018-03-13 18:40:51,951 - __main__ - INFO - start training the net
+2018-03-14 07:32:46,907 - __main__ - INFO - end training the net
+2018-03-14 07:32:46,907 - __main__ - INFO - load params
+2018-03-14 07:32:47,827 - __main__ - INFO - read pics
+2018-03-14 07:32:48,136 - __main__ - INFO - start evaluating pics
+2018-03-14 07:32:56,455 - __main__ - INFO - end evaluating pics
+2018-03-14 15:41:17,037 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-14 15:41:17,037 - __main__ - INFO - svg_dir == test_input3/
+2018-03-14 15:41:17,037 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-14 15:41:17,037 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-14 15:41:17,038 - __main__ - INFO - test_output_dir == test_output/
+2018-03-14 15:41:17,038 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-14 15:41:17,038 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-14 15:41:17,038 - __main__ - INFO - model_name == model4
+2018-03-14 15:41:17,038 - __main__ - INFO - big_loop == 1
+2018-03-14 15:41:17,038 - __main__ - INFO - epoch_init == 5000
+2018-03-14 15:41:17,038 - __main__ - INFO - strides == 20
+2018-03-14 15:41:17,038 - __main__ - INFO - batch_size == 4
+2018-03-14 15:41:17,038 - __main__ - INFO - max_idx == 80
+2018-03-14 15:41:17,038 - __main__ - INFO - data_size == 112
+2018-03-14 15:41:17,038 - __main__ - INFO - lr_init == 0.0001
+2018-03-14 15:41:17,038 - __main__ - INFO - learning_rate == 1e-05
+2018-03-14 15:41:17,038 - __main__ - INFO - vgg_weight_list == [1, 0.5, 0.05, 0.005]
+2018-03-14 15:41:17,038 - __main__ - INFO - use_vgg == False
+2018-03-14 15:41:17,039 - __main__ - INFO - use_L1_loss == False
+2018-03-14 15:41:17,039 - __main__ - INFO - wgan == False
+2018-03-14 15:41:17,039 - __main__ - INFO - init_g == True
+2018-03-14 15:41:17,039 - __main__ - INFO - init_d == True
+2018-03-14 15:41:17,039 - __main__ - INFO - init_b == False
+2018-03-14 15:41:17,039 - __main__ - INFO - method == 0
+2018-03-14 15:41:17,039 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-14 15:41:17,039 - __main__ - INFO - train_net == True
+2018-03-14 15:41:17,039 - __main__ - INFO - generate_pics == True
+2018-03-14 15:41:17,039 - __main__ - INFO - resume_network == False
+2018-03-14 15:41:17,039 - __main__ - INFO - start building the net
+2018-03-14 15:41:39,233 - __main__ - INFO - start training the net
+2018-03-14 16:11:54,206 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-14 16:11:54,206 - __main__ - INFO - svg_dir == test_input3/
+2018-03-14 16:11:54,206 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-14 16:11:54,206 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-14 16:11:54,206 - __main__ - INFO - test_output_dir == test_output/
+2018-03-14 16:11:54,207 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-14 16:11:54,207 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-14 16:11:54,207 - __main__ - INFO - model_name == model4
+2018-03-14 16:11:54,207 - __main__ - INFO - big_loop == 1
+2018-03-14 16:11:54,207 - __main__ - INFO - scale_num == 4
+2018-03-14 16:11:54,207 - __main__ - INFO - epoch_init == 5000
+2018-03-14 16:11:54,207 - __main__ - INFO - strides == 20
+2018-03-14 16:11:54,207 - __main__ - INFO - batch_size == 4
+2018-03-14 16:11:54,207 - __main__ - INFO - max_idx == 80
+2018-03-14 16:11:54,207 - __main__ - INFO - data_size == 112
+2018-03-14 16:11:54,207 - __main__ - INFO - lr_init == 0.0001
+2018-03-14 16:11:54,207 - __main__ - INFO - learning_rate == 1e-05
+2018-03-14 16:11:54,208 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-14 16:11:54,208 - __main__ - INFO - use_vgg == False
+2018-03-14 16:11:54,208 - __main__ - INFO - use_L1_loss == False
+2018-03-14 16:11:54,208 - __main__ - INFO - wgan == False
+2018-03-14 16:11:54,208 - __main__ - INFO - init_g == True
+2018-03-14 16:11:54,208 - __main__ - INFO - init_d == True
+2018-03-14 16:11:54,208 - __main__ - INFO - init_b == False
+2018-03-14 16:11:54,208 - __main__ - INFO - method == 0
+2018-03-14 16:11:54,208 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-14 16:11:54,208 - __main__ - INFO - train_net == True
+2018-03-14 16:11:54,208 - __main__ - INFO - generate_pics == True
+2018-03-14 16:11:54,208 - __main__ - INFO - resume_network == False
+2018-03-14 16:11:54,209 - __main__ - INFO - start building the net
+2018-03-14 16:12:50,618 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-14 16:12:50,618 - __main__ - INFO - svg_dir == test_input3/
+2018-03-14 16:12:50,618 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-14 16:12:50,619 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-14 16:12:50,619 - __main__ - INFO - test_output_dir == test_output/
+2018-03-14 16:12:50,619 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-14 16:12:50,619 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-14 16:12:50,619 - __main__ - INFO - model_name == model4
+2018-03-14 16:12:50,619 - __main__ - INFO - big_loop == 1
+2018-03-14 16:12:50,619 - __main__ - INFO - scale_num == 4
+2018-03-14 16:12:50,619 - __main__ - INFO - epoch_init == 5000
+2018-03-14 16:12:50,619 - __main__ - INFO - strides == 20
+2018-03-14 16:12:50,619 - __main__ - INFO - batch_size == 4
+2018-03-14 16:12:50,619 - __main__ - INFO - max_idx == 80
+2018-03-14 16:12:50,619 - __main__ - INFO - data_size == 112
+2018-03-14 16:12:50,619 - __main__ - INFO - lr_init == 0.0001
+2018-03-14 16:12:50,620 - __main__ - INFO - learning_rate == 1e-05
+2018-03-14 16:12:50,620 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-14 16:12:50,620 - __main__ - INFO - use_vgg == False
+2018-03-14 16:12:50,620 - __main__ - INFO - use_L1_loss == False
+2018-03-14 16:12:50,620 - __main__ - INFO - wgan == False
+2018-03-14 16:12:50,620 - __main__ - INFO - init_g == True
+2018-03-14 16:12:50,620 - __main__ - INFO - init_d == True
+2018-03-14 16:12:50,620 - __main__ - INFO - init_b == False
+2018-03-14 16:12:50,620 - __main__ - INFO - method == 0
+2018-03-14 16:12:50,620 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-14 16:12:50,620 - __main__ - INFO - train_net == True
+2018-03-14 16:12:50,620 - __main__ - INFO - generate_pics == True
+2018-03-14 16:12:50,621 - __main__ - INFO - resume_network == False
+2018-03-14 16:12:50,621 - __main__ - INFO - start building the net
+2018-03-14 16:13:12,830 - __main__ - INFO - start training the net
+2018-03-14 16:20:12,162 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-14 16:20:12,163 - __main__ - INFO - svg_dir == test_input3/
+2018-03-14 16:20:12,163 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-14 16:20:12,163 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-14 16:20:12,163 - __main__ - INFO - test_output_dir == test_output/
+2018-03-14 16:20:12,163 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-14 16:20:12,163 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-14 16:20:12,163 - __main__ - INFO - model_name == model4
+2018-03-14 16:20:12,163 - __main__ - INFO - big_loop == 1
+2018-03-14 16:20:12,163 - __main__ - INFO - scale_num == 4
+2018-03-14 16:20:12,164 - __main__ - INFO - epoch_init == 5000
+2018-03-14 16:20:12,164 - __main__ - INFO - strides == 20
+2018-03-14 16:20:12,164 - __main__ - INFO - batch_size == 4
+2018-03-14 16:20:12,164 - __main__ - INFO - max_idx == 80
+2018-03-14 16:20:12,164 - __main__ - INFO - data_size == 112
+2018-03-14 16:20:12,164 - __main__ - INFO - lr_init == 0.0001
+2018-03-14 16:20:12,164 - __main__ - INFO - learning_rate == 1e-05
+2018-03-14 16:20:12,164 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-14 16:20:12,164 - __main__ - INFO - use_vgg == False
+2018-03-14 16:20:12,164 - __main__ - INFO - use_L1_loss == False
+2018-03-14 16:20:12,164 - __main__ - INFO - wgan == False
+2018-03-14 16:20:12,165 - __main__ - INFO - init_g == True
+2018-03-14 16:20:12,165 - __main__ - INFO - init_d == True
+2018-03-14 16:20:12,165 - __main__ - INFO - init_b == False
+2018-03-14 16:20:12,165 - __main__ - INFO - method == 0
+2018-03-14 16:20:12,165 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-14 16:20:12,165 - __main__ - INFO - train_net == True
+2018-03-14 16:20:12,165 - __main__ - INFO - generate_pics == True
+2018-03-14 16:20:12,165 - __main__ - INFO - resume_network == False
+2018-03-14 16:20:12,165 - __main__ - INFO - start building the net
+2018-03-14 16:20:34,208 - __main__ - INFO - start training the net
+2018-03-14 16:22:51,740 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-14 16:22:51,740 - __main__ - INFO - svg_dir == test_input3/
+2018-03-14 16:22:51,740 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-14 16:22:51,740 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-14 16:22:51,740 - __main__ - INFO - test_output_dir == test_output/
+2018-03-14 16:22:51,740 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-14 16:22:51,740 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-14 16:22:51,740 - __main__ - INFO - model_name == model4
+2018-03-14 16:22:51,740 - __main__ - INFO - big_loop == 1
+2018-03-14 16:22:51,741 - __main__ - INFO - scale_num == 4
+2018-03-14 16:22:51,741 - __main__ - INFO - epoch_init == 5000
+2018-03-14 16:22:51,741 - __main__ - INFO - strides == 20
+2018-03-14 16:22:51,741 - __main__ - INFO - batch_size == 4
+2018-03-14 16:22:51,741 - __main__ - INFO - max_idx == 80
+2018-03-14 16:22:51,741 - __main__ - INFO - data_size == 112
+2018-03-14 16:22:51,741 - __main__ - INFO - lr_init == 0.0001
+2018-03-14 16:22:51,741 - __main__ - INFO - learning_rate == 1e-05
+2018-03-14 16:22:51,741 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-14 16:22:51,741 - __main__ - INFO - use_vgg == False
+2018-03-14 16:22:51,742 - __main__ - INFO - use_L1_loss == False
+2018-03-14 16:22:51,742 - __main__ - INFO - wgan == False
+2018-03-14 16:22:51,742 - __main__ - INFO - init_g == True
+2018-03-14 16:22:51,742 - __main__ - INFO - init_d == True
+2018-03-14 16:22:51,742 - __main__ - INFO - init_b == False
+2018-03-14 16:22:51,742 - __main__ - INFO - method == 0
+2018-03-14 16:22:51,742 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-14 16:22:51,742 - __main__ - INFO - train_net == True
+2018-03-14 16:22:51,742 - __main__ - INFO - generate_pics == True
+2018-03-14 16:22:51,742 - __main__ - INFO - resume_network == False
+2018-03-14 16:22:51,742 - __main__ - INFO - start building the net
+2018-03-14 16:23:14,433 - __main__ - INFO - start training the net
+2018-03-15 04:57:37,680 - __main__ - INFO - end training the net
+2018-03-15 04:57:37,680 - __main__ - INFO - load params
+2018-03-15 04:57:38,624 - __main__ - INFO - read pics
+2018-03-15 04:57:38,933 - __main__ - INFO - start evaluating pics
+2018-03-15 04:57:48,362 - __main__ - INFO - end evaluating pics
+2018-03-15 12:14:23,177 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-15 12:14:23,177 - __main__ - INFO - svg_dir == test_input3/
+2018-03-15 12:14:23,177 - __main__ - INFO - pxl_dir == HR_sr/
+2018-03-15 12:14:23,177 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-15 12:14:23,177 - __main__ - INFO - test_output_dir == test_output/
+2018-03-15 12:14:23,178 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-15 12:14:23,178 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-15 12:14:23,178 - __main__ - INFO - model_name == model4
+2018-03-15 12:14:23,178 - __main__ - INFO - big_loop == 1
+2018-03-15 12:14:23,178 - __main__ - INFO - scale_num == 4
+2018-03-15 12:14:23,178 - __main__ - INFO - epoch_init == 5000
+2018-03-15 12:14:23,178 - __main__ - INFO - strides == 20
+2018-03-15 12:14:23,178 - __main__ - INFO - batch_size == 4
+2018-03-15 12:14:23,178 - __main__ - INFO - max_idx == 80
+2018-03-15 12:14:23,178 - __main__ - INFO - data_size == 112
+2018-03-15 12:14:23,178 - __main__ - INFO - lr_init == 0.0001
+2018-03-15 12:14:23,178 - __main__ - INFO - learning_rate == 1e-05
+2018-03-15 12:14:23,178 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-15 12:14:23,178 - __main__ - INFO - use_vgg == False
+2018-03-15 12:14:23,179 - __main__ - INFO - use_L1_loss == False
+2018-03-15 12:14:23,179 - __main__ - INFO - wgan == False
+2018-03-15 12:14:23,179 - __main__ - INFO - init_g == True
+2018-03-15 12:14:23,179 - __main__ - INFO - init_d == True
+2018-03-15 12:14:23,179 - __main__ - INFO - init_b == False
+2018-03-15 12:14:23,179 - __main__ - INFO - method == 0
+2018-03-15 12:14:23,179 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-15 12:14:23,179 - __main__ - INFO - train_net == True
+2018-03-15 12:14:23,179 - __main__ - INFO - generate_pics == True
+2018-03-15 12:14:23,179 - __main__ - INFO - resume_network == False
+2018-03-15 12:14:23,179 - __main__ - INFO - start building the net
+2018-03-15 12:14:45,416 - __main__ - INFO - start training the net
+2018-03-16 00:42:29,956 - __main__ - INFO - end training the net
+2018-03-16 00:42:29,956 - __main__ - INFO - load params
+2018-03-16 00:42:30,847 - __main__ - INFO - read pics
+2018-03-16 00:42:31,250 - __main__ - INFO - start evaluating pics
+2018-03-16 00:42:40,830 - __main__ - INFO - end evaluating pics
+2018-03-17 14:29:03,318 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:29:03,318 - __main__ - INFO - svg_dir == dataset/Test/Set5
+2018-03-17 14:29:03,318 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:29:03,318 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:29:03,318 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:29:03,318 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:29:03,318 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:29:03,318 - __main__ - INFO - model_name == model4
+2018-03-17 14:29:03,318 - __main__ - INFO - big_loop == 1
+2018-03-17 14:29:03,318 - __main__ - INFO - scale_num == 4
+2018-03-17 14:29:03,318 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:29:03,318 - __main__ - INFO - strides == 20
+2018-03-17 14:29:03,318 - __main__ - INFO - batch_size == 4
+2018-03-17 14:29:03,318 - __main__ - INFO - max_idx == 92
+2018-03-17 14:29:03,318 - __main__ - INFO - data_size == 92
+2018-03-17 14:29:03,318 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:29:03,318 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:29:03,318 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:29:03,318 - __main__ - INFO - use_vgg == False
+2018-03-17 14:29:03,318 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:29:03,319 - __main__ - INFO - wgan == False
+2018-03-17 14:29:03,319 - __main__ - INFO - init_g == True
+2018-03-17 14:29:03,319 - __main__ - INFO - init_d == True
+2018-03-17 14:29:03,319 - __main__ - INFO - init_b == False
+2018-03-17 14:29:03,319 - __main__ - INFO - method == 0
+2018-03-17 14:29:03,319 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:29:03,319 - __main__ - INFO - train_net == True
+2018-03-17 14:29:03,319 - __main__ - INFO - generate_pics == True
+2018-03-17 14:29:03,319 - __main__ - INFO - resume_network == False
+2018-03-17 14:29:03,319 - __main__ - INFO - start building the net
+2018-03-17 14:29:29,852 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:29:29,852 - __main__ - INFO - svg_dir == dataset/Test/Set5
+2018-03-17 14:29:29,852 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:29:29,852 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:29:29,852 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:29:29,852 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:29:29,852 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:29:29,852 - __main__ - INFO - model_name == model4
+2018-03-17 14:29:29,852 - __main__ - INFO - big_loop == 1
+2018-03-17 14:29:29,852 - __main__ - INFO - scale_num == 4
+2018-03-17 14:29:29,852 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:29:29,852 - __main__ - INFO - strides == 20
+2018-03-17 14:29:29,853 - __main__ - INFO - batch_size == 4
+2018-03-17 14:29:29,853 - __main__ - INFO - max_idx == 92
+2018-03-17 14:29:29,853 - __main__ - INFO - data_size == 92
+2018-03-17 14:29:29,853 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:29:29,853 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:29:29,853 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:29:29,853 - __main__ - INFO - use_vgg == False
+2018-03-17 14:29:29,853 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:29:29,853 - __main__ - INFO - wgan == False
+2018-03-17 14:29:29,853 - __main__ - INFO - init_g == True
+2018-03-17 14:29:29,853 - __main__ - INFO - init_d == True
+2018-03-17 14:29:29,853 - __main__ - INFO - init_b == False
+2018-03-17 14:29:29,853 - __main__ - INFO - method == 0
+2018-03-17 14:29:29,853 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:29:29,853 - __main__ - INFO - train_net == True
+2018-03-17 14:29:29,853 - __main__ - INFO - generate_pics == True
+2018-03-17 14:29:29,853 - __main__ - INFO - resume_network == False
+2018-03-17 14:29:29,853 - __main__ - INFO - start building the net
+2018-03-17 14:32:41,574 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:32:41,574 - __main__ - INFO - svg_dir == dataset/Test/Set5
+2018-03-17 14:32:41,574 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:32:41,574 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:32:41,574 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:32:41,574 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:32:41,574 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:32:41,574 - __main__ - INFO - model_name == model4
+2018-03-17 14:32:41,575 - __main__ - INFO - big_loop == 1
+2018-03-17 14:32:41,575 - __main__ - INFO - scale_num == 4
+2018-03-17 14:32:41,575 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:32:41,575 - __main__ - INFO - strides == 20
+2018-03-17 14:32:41,575 - __main__ - INFO - batch_size == 4
+2018-03-17 14:32:41,575 - __main__ - INFO - max_idx == 92
+2018-03-17 14:32:41,575 - __main__ - INFO - data_size == 92
+2018-03-17 14:32:41,575 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:32:41,575 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:32:41,575 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:32:41,575 - __main__ - INFO - use_vgg == False
+2018-03-17 14:32:41,575 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:32:41,575 - __main__ - INFO - wgan == False
+2018-03-17 14:32:41,575 - __main__ - INFO - init_g == True
+2018-03-17 14:32:41,576 - __main__ - INFO - init_d == True
+2018-03-17 14:32:41,576 - __main__ - INFO - init_b == False
+2018-03-17 14:32:41,576 - __main__ - INFO - method == 0
+2018-03-17 14:32:41,576 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:32:41,576 - __main__ - INFO - train_net == True
+2018-03-17 14:32:41,576 - __main__ - INFO - generate_pics == True
+2018-03-17 14:32:41,576 - __main__ - INFO - resume_network == False
+2018-03-17 14:32:41,576 - __main__ - INFO - start building the net
+2018-03-17 14:33:26,758 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:33:26,758 - __main__ - INFO - svg_dir == dataset/Test/Set5
+2018-03-17 14:33:26,758 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:33:26,758 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:33:26,758 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:33:26,758 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:33:26,758 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:33:26,758 - __main__ - INFO - model_name == model4
+2018-03-17 14:33:26,758 - __main__ - INFO - big_loop == 1
+2018-03-17 14:33:26,759 - __main__ - INFO - scale_num == 4
+2018-03-17 14:33:26,759 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:33:26,759 - __main__ - INFO - strides == 20
+2018-03-17 14:33:26,759 - __main__ - INFO - batch_size == 4
+2018-03-17 14:33:26,759 - __main__ - INFO - max_idx == 92
+2018-03-17 14:33:26,759 - __main__ - INFO - data_size == 92
+2018-03-17 14:33:26,759 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:33:26,759 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:33:26,759 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:33:26,759 - __main__ - INFO - use_vgg == False
+2018-03-17 14:33:26,759 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:33:26,760 - __main__ - INFO - wgan == False
+2018-03-17 14:33:26,760 - __main__ - INFO - init_g == True
+2018-03-17 14:33:26,760 - __main__ - INFO - init_d == True
+2018-03-17 14:33:26,760 - __main__ - INFO - init_b == False
+2018-03-17 14:33:26,760 - __main__ - INFO - method == 0
+2018-03-17 14:33:26,760 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:33:26,760 - __main__ - INFO - train_net == True
+2018-03-17 14:33:26,760 - __main__ - INFO - generate_pics == True
+2018-03-17 14:33:26,760 - __main__ - INFO - resume_network == False
+2018-03-17 14:33:26,760 - __main__ - INFO - start building the net
+2018-03-17 14:34:27,435 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:34:27,436 - __main__ - INFO - svg_dir == dataset/Test/Set5
+2018-03-17 14:34:27,436 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:34:27,436 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:34:27,436 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:34:27,436 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:34:27,436 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:34:27,436 - __main__ - INFO - model_name == model4
+2018-03-17 14:34:27,436 - __main__ - INFO - big_loop == 1
+2018-03-17 14:34:27,436 - __main__ - INFO - scale_num == 4
+2018-03-17 14:34:27,437 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:34:27,437 - __main__ - INFO - strides == 20
+2018-03-17 14:34:27,437 - __main__ - INFO - batch_size == 4
+2018-03-17 14:34:27,437 - __main__ - INFO - max_idx == 92
+2018-03-17 14:34:27,437 - __main__ - INFO - data_size == 92
+2018-03-17 14:34:27,437 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:34:27,437 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:34:27,437 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:34:27,437 - __main__ - INFO - use_vgg == False
+2018-03-17 14:34:27,437 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:34:27,437 - __main__ - INFO - wgan == False
+2018-03-17 14:34:27,438 - __main__ - INFO - init_g == True
+2018-03-17 14:34:27,438 - __main__ - INFO - init_d == True
+2018-03-17 14:34:27,438 - __main__ - INFO - init_b == False
+2018-03-17 14:34:27,438 - __main__ - INFO - method == 0
+2018-03-17 14:34:27,438 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:34:27,438 - __main__ - INFO - train_net == True
+2018-03-17 14:34:27,438 - __main__ - INFO - generate_pics == True
+2018-03-17 14:34:27,438 - __main__ - INFO - resume_network == False
+2018-03-17 14:34:27,438 - __main__ - INFO - start building the net
+2018-03-17 14:35:07,747 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:35:07,747 - __main__ - INFO - svg_dir == dataset/Test/Set5
+2018-03-17 14:35:07,747 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:35:07,747 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:35:07,747 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:35:07,747 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:35:07,747 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:35:07,747 - __main__ - INFO - model_name == model4
+2018-03-17 14:35:07,748 - __main__ - INFO - big_loop == 1
+2018-03-17 14:35:07,748 - __main__ - INFO - scale_num == 4
+2018-03-17 14:35:07,748 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:35:07,748 - __main__ - INFO - strides == 20
+2018-03-17 14:35:07,748 - __main__ - INFO - batch_size == 4
+2018-03-17 14:35:07,748 - __main__ - INFO - max_idx == 92
+2018-03-17 14:35:07,748 - __main__ - INFO - data_size == 92
+2018-03-17 14:35:07,748 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:35:07,748 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:35:07,748 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:35:07,748 - __main__ - INFO - use_vgg == False
+2018-03-17 14:35:07,748 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:35:07,749 - __main__ - INFO - wgan == False
+2018-03-17 14:35:07,749 - __main__ - INFO - init_g == True
+2018-03-17 14:35:07,749 - __main__ - INFO - init_d == True
+2018-03-17 14:35:07,749 - __main__ - INFO - init_b == False
+2018-03-17 14:35:07,749 - __main__ - INFO - method == 0
+2018-03-17 14:35:07,749 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:35:07,749 - __main__ - INFO - train_net == True
+2018-03-17 14:35:07,749 - __main__ - INFO - generate_pics == True
+2018-03-17 14:35:07,749 - __main__ - INFO - resume_network == False
+2018-03-17 14:35:07,749 - __main__ - INFO - start building the net
+2018-03-17 14:35:53,155 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:35:53,155 - __main__ - INFO - svg_dir == dataset/Test/Set5
+2018-03-17 14:35:53,156 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:35:53,156 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:35:53,156 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:35:53,156 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:35:53,156 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:35:53,156 - __main__ - INFO - model_name == model4
+2018-03-17 14:35:53,156 - __main__ - INFO - big_loop == 1
+2018-03-17 14:35:53,156 - __main__ - INFO - scale_num == 4
+2018-03-17 14:35:53,156 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:35:53,156 - __main__ - INFO - strides == 20
+2018-03-17 14:35:53,156 - __main__ - INFO - batch_size == 4
+2018-03-17 14:35:53,157 - __main__ - INFO - max_idx == 92
+2018-03-17 14:35:53,157 - __main__ - INFO - data_size == 92
+2018-03-17 14:35:53,157 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:35:53,157 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:35:53,157 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:35:53,157 - __main__ - INFO - use_vgg == False
+2018-03-17 14:35:53,157 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:35:53,157 - __main__ - INFO - wgan == False
+2018-03-17 14:35:53,157 - __main__ - INFO - init_g == True
+2018-03-17 14:35:53,157 - __main__ - INFO - init_d == True
+2018-03-17 14:35:53,157 - __main__ - INFO - init_b == False
+2018-03-17 14:35:53,158 - __main__ - INFO - method == 0
+2018-03-17 14:35:53,158 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:35:53,158 - __main__ - INFO - train_net == True
+2018-03-17 14:35:53,158 - __main__ - INFO - generate_pics == True
+2018-03-17 14:35:53,158 - __main__ - INFO - resume_network == False
+2018-03-17 14:35:53,158 - __main__ - INFO - start building the net
+2018-03-17 14:36:41,315 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:36:41,315 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 14:36:41,316 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:36:41,316 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:36:41,316 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:36:41,316 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:36:41,316 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:36:41,316 - __main__ - INFO - model_name == model4
+2018-03-17 14:36:41,316 - __main__ - INFO - big_loop == 1
+2018-03-17 14:36:41,316 - __main__ - INFO - scale_num == 4
+2018-03-17 14:36:41,316 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:36:41,316 - __main__ - INFO - strides == 20
+2018-03-17 14:36:41,316 - __main__ - INFO - batch_size == 4
+2018-03-17 14:36:41,316 - __main__ - INFO - max_idx == 92
+2018-03-17 14:36:41,317 - __main__ - INFO - data_size == 92
+2018-03-17 14:36:41,317 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:36:41,317 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:36:41,317 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:36:41,317 - __main__ - INFO - use_vgg == False
+2018-03-17 14:36:41,317 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:36:41,317 - __main__ - INFO - wgan == False
+2018-03-17 14:36:41,317 - __main__ - INFO - init_g == True
+2018-03-17 14:36:41,317 - __main__ - INFO - init_d == True
+2018-03-17 14:36:41,317 - __main__ - INFO - init_b == False
+2018-03-17 14:36:41,317 - __main__ - INFO - method == 0
+2018-03-17 14:36:41,317 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:36:41,317 - __main__ - INFO - train_net == True
+2018-03-17 14:36:41,318 - __main__ - INFO - generate_pics == True
+2018-03-17 14:36:41,318 - __main__ - INFO - resume_network == False
+2018-03-17 14:36:41,318 - __main__ - INFO - start building the net
+2018-03-17 14:43:00,160 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:43:00,161 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 14:43:00,161 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:43:00,161 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:43:00,161 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:43:00,161 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:43:00,161 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:43:00,161 - __main__ - INFO - model_name == model4
+2018-03-17 14:43:00,161 - __main__ - INFO - big_loop == 1
+2018-03-17 14:43:00,161 - __main__ - INFO - scale_num == 4
+2018-03-17 14:43:00,161 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:43:00,161 - __main__ - INFO - strides == 20
+2018-03-17 14:43:00,161 - __main__ - INFO - batch_size == 4
+2018-03-17 14:43:00,161 - __main__ - INFO - max_idx == 92
+2018-03-17 14:43:00,161 - __main__ - INFO - data_size == 92
+2018-03-17 14:43:00,161 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:43:00,162 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:43:00,162 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:43:00,162 - __main__ - INFO - use_vgg == False
+2018-03-17 14:43:00,162 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:43:00,162 - __main__ - INFO - wgan == False
+2018-03-17 14:43:00,162 - __main__ - INFO - init_g == True
+2018-03-17 14:43:00,162 - __main__ - INFO - init_d == True
+2018-03-17 14:43:00,162 - __main__ - INFO - init_b == False
+2018-03-17 14:43:00,162 - __main__ - INFO - method == 0
+2018-03-17 14:43:00,162 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:43:00,162 - __main__ - INFO - train_net == True
+2018-03-17 14:43:00,162 - __main__ - INFO - generate_pics == True
+2018-03-17 14:43:00,162 - __main__ - INFO - resume_network == False
+2018-03-17 14:43:00,162 - __main__ - INFO - start building the net
+2018-03-17 14:43:22,308 - __main__ - INFO - start training the net
+2018-03-17 14:45:01,060 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 14:45:01,061 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 14:45:01,062 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 14:45:01,062 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 14:45:01,063 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 14:45:01,063 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 14:45:01,063 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 14:45:01,063 - __main__ - INFO - model_name == model4
+2018-03-17 14:45:01,063 - __main__ - INFO - big_loop == 1
+2018-03-17 14:45:01,063 - __main__ - INFO - scale_num == 4
+2018-03-17 14:45:01,063 - __main__ - INFO - epoch_init == 100
+2018-03-17 14:45:01,064 - __main__ - INFO - strides == 20
+2018-03-17 14:45:01,064 - __main__ - INFO - batch_size == 4
+2018-03-17 14:45:01,064 - __main__ - INFO - max_idx == 92
+2018-03-17 14:45:01,064 - __main__ - INFO - data_size == 92
+2018-03-17 14:45:01,064 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 14:45:01,064 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 14:45:01,064 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 14:45:01,064 - __main__ - INFO - use_vgg == False
+2018-03-17 14:45:01,065 - __main__ - INFO - use_L1_loss == False
+2018-03-17 14:45:01,065 - __main__ - INFO - wgan == False
+2018-03-17 14:45:01,065 - __main__ - INFO - init_g == True
+2018-03-17 14:45:01,065 - __main__ - INFO - init_d == True
+2018-03-17 14:45:01,065 - __main__ - INFO - init_b == False
+2018-03-17 14:45:01,065 - __main__ - INFO - method == 0
+2018-03-17 14:45:01,065 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 14:45:01,066 - __main__ - INFO - train_net == True
+2018-03-17 14:45:01,066 - __main__ - INFO - generate_pics == True
+2018-03-17 14:45:01,066 - __main__ - INFO - resume_network == False
+2018-03-17 14:45:01,066 - __main__ - INFO - start building the net
+2018-03-17 14:45:23,538 - __main__ - INFO - start training the net
+2018-03-17 15:02:31,823 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 15:02:31,823 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 15:02:31,823 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 15:02:31,823 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 15:02:31,823 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 15:02:31,823 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 15:02:31,824 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 15:02:31,824 - __main__ - INFO - model_name == model4
+2018-03-17 15:02:31,824 - __main__ - INFO - big_loop == 1
+2018-03-17 15:02:31,824 - __main__ - INFO - scale_num == 4
+2018-03-17 15:02:31,824 - __main__ - INFO - epoch_init == 100
+2018-03-17 15:02:31,824 - __main__ - INFO - strides == 20
+2018-03-17 15:02:31,824 - __main__ - INFO - batch_size == 4
+2018-03-17 15:02:31,824 - __main__ - INFO - max_idx == 92
+2018-03-17 15:02:31,824 - __main__ - INFO - data_size == 92
+2018-03-17 15:02:31,824 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 15:02:31,824 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 15:02:31,824 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 15:02:31,824 - __main__ - INFO - use_vgg == False
+2018-03-17 15:02:31,824 - __main__ - INFO - use_L1_loss == False
+2018-03-17 15:02:31,824 - __main__ - INFO - wgan == False
+2018-03-17 15:02:31,824 - __main__ - INFO - init_g == True
+2018-03-17 15:02:31,824 - __main__ - INFO - init_d == True
+2018-03-17 15:02:31,824 - __main__ - INFO - init_b == False
+2018-03-17 15:02:31,824 - __main__ - INFO - method == 0
+2018-03-17 15:02:31,824 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 15:02:31,824 - __main__ - INFO - train_net == True
+2018-03-17 15:02:31,824 - __main__ - INFO - generate_pics == True
+2018-03-17 15:02:31,824 - __main__ - INFO - resume_network == False
+2018-03-17 15:02:31,824 - __main__ - INFO - start building the net
+2018-03-17 15:02:53,769 - __main__ - INFO - start training the net
+2018-03-17 15:26:11,176 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 15:26:11,176 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 15:26:11,178 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 15:26:11,178 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 15:26:11,178 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 15:26:11,178 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 15:26:11,178 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 15:26:11,178 - __main__ - INFO - model_name == model4
+2018-03-17 15:26:11,178 - __main__ - INFO - big_loop == 1
+2018-03-17 15:26:11,178 - __main__ - INFO - scale_num == 4
+2018-03-17 15:26:11,178 - __main__ - INFO - epoch_init == 100
+2018-03-17 15:26:11,178 - __main__ - INFO - strides == 20
+2018-03-17 15:26:11,178 - __main__ - INFO - batch_size == 4
+2018-03-17 15:26:11,178 - __main__ - INFO - max_idx == 92
+2018-03-17 15:26:11,178 - __main__ - INFO - data_size == 92
+2018-03-17 15:26:11,178 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 15:26:11,179 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 15:26:11,179 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 15:26:11,179 - __main__ - INFO - use_vgg == False
+2018-03-17 15:26:11,179 - __main__ - INFO - use_L1_loss == False
+2018-03-17 15:26:11,179 - __main__ - INFO - wgan == False
+2018-03-17 15:26:11,179 - __main__ - INFO - init_g == True
+2018-03-17 15:26:11,179 - __main__ - INFO - init_d == True
+2018-03-17 15:26:11,179 - __main__ - INFO - init_b == False
+2018-03-17 15:26:11,179 - __main__ - INFO - method == 0
+2018-03-17 15:26:11,179 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 15:26:11,180 - __main__ - INFO - train_net == True
+2018-03-17 15:26:11,180 - __main__ - INFO - generate_pics == True
+2018-03-17 15:26:11,180 - __main__ - INFO - resume_network == False
+2018-03-17 15:26:11,180 - __main__ - INFO - start building the net
+2018-03-17 15:26:33,772 - __main__ - INFO - start training the net
+2018-03-17 15:27:56,714 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 15:27:56,714 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 15:27:56,714 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 15:27:56,714 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 15:27:56,714 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 15:27:56,715 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 15:27:56,715 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 15:27:56,715 - __main__ - INFO - model_name == model4
+2018-03-17 15:27:56,715 - __main__ - INFO - big_loop == 1
+2018-03-17 15:27:56,715 - __main__ - INFO - scale_num == 4
+2018-03-17 15:27:56,715 - __main__ - INFO - epoch_init == 100
+2018-03-17 15:27:56,715 - __main__ - INFO - strides == 20
+2018-03-17 15:27:56,715 - __main__ - INFO - batch_size == 4
+2018-03-17 15:27:56,715 - __main__ - INFO - max_idx == 92
+2018-03-17 15:27:56,715 - __main__ - INFO - data_size == 92
+2018-03-17 15:27:56,715 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 15:27:56,715 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 15:27:56,715 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 15:27:56,715 - __main__ - INFO - use_vgg == False
+2018-03-17 15:27:56,715 - __main__ - INFO - use_L1_loss == False
+2018-03-17 15:27:56,715 - __main__ - INFO - wgan == False
+2018-03-17 15:27:56,715 - __main__ - INFO - init_g == True
+2018-03-17 15:27:56,715 - __main__ - INFO - init_d == True
+2018-03-17 15:27:56,715 - __main__ - INFO - init_b == False
+2018-03-17 15:27:56,715 - __main__ - INFO - method == 0
+2018-03-17 15:27:56,715 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 15:27:56,716 - __main__ - INFO - train_net == True
+2018-03-17 15:27:56,716 - __main__ - INFO - generate_pics == True
+2018-03-17 15:27:56,716 - __main__ - INFO - resume_network == False
+2018-03-17 15:27:56,716 - __main__ - INFO - start building the net
+2018-03-17 15:28:19,203 - __main__ - INFO - start training the net
+2018-03-17 15:33:29,711 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 15:33:29,711 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 15:33:29,711 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 15:33:29,711 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 15:33:29,711 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 15:33:29,711 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 15:33:29,712 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 15:33:29,712 - __main__ - INFO - model_name == model4
+2018-03-17 15:33:29,712 - __main__ - INFO - big_loop == 1
+2018-03-17 15:33:29,712 - __main__ - INFO - scale_num == 4
+2018-03-17 15:33:29,712 - __main__ - INFO - epoch_init == 100
+2018-03-17 15:33:29,712 - __main__ - INFO - strides == 20
+2018-03-17 15:33:29,712 - __main__ - INFO - batch_size == 4
+2018-03-17 15:33:29,712 - __main__ - INFO - max_idx == 92
+2018-03-17 15:33:29,712 - __main__ - INFO - data_size == 92
+2018-03-17 15:33:29,712 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 15:33:29,712 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 15:33:29,712 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 15:33:29,712 - __main__ - INFO - use_vgg == False
+2018-03-17 15:33:29,713 - __main__ - INFO - use_L1_loss == False
+2018-03-17 15:33:29,713 - __main__ - INFO - wgan == False
+2018-03-17 15:33:29,713 - __main__ - INFO - init_g == True
+2018-03-17 15:33:29,713 - __main__ - INFO - init_d == True
+2018-03-17 15:33:29,713 - __main__ - INFO - init_b == False
+2018-03-17 15:33:29,713 - __main__ - INFO - method == 0
+2018-03-17 15:33:29,713 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 15:33:29,713 - __main__ - INFO - train_net == True
+2018-03-17 15:33:29,713 - __main__ - INFO - generate_pics == True
+2018-03-17 15:33:29,713 - __main__ - INFO - resume_network == False
+2018-03-17 15:33:29,713 - __main__ - INFO - start building the net
+2018-03-17 15:34:11,472 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 15:34:11,472 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 15:34:11,472 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 15:34:11,472 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 15:34:11,472 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 15:34:11,472 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 15:34:11,472 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 15:34:11,472 - __main__ - INFO - model_name == model4
+2018-03-17 15:34:11,473 - __main__ - INFO - big_loop == 1
+2018-03-17 15:34:11,473 - __main__ - INFO - scale_num == 4
+2018-03-17 15:34:11,473 - __main__ - INFO - epoch_init == 100
+2018-03-17 15:34:11,473 - __main__ - INFO - strides == 20
+2018-03-17 15:34:11,473 - __main__ - INFO - batch_size == 4
+2018-03-17 15:34:11,473 - __main__ - INFO - max_idx == 92
+2018-03-17 15:34:11,473 - __main__ - INFO - data_size == 92
+2018-03-17 15:34:11,473 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 15:34:11,473 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 15:34:11,473 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 15:34:11,473 - __main__ - INFO - use_vgg == False
+2018-03-17 15:34:11,474 - __main__ - INFO - use_L1_loss == False
+2018-03-17 15:34:11,474 - __main__ - INFO - wgan == False
+2018-03-17 15:34:11,474 - __main__ - INFO - init_g == True
+2018-03-17 15:34:11,474 - __main__ - INFO - init_d == True
+2018-03-17 15:34:11,474 - __main__ - INFO - init_b == False
+2018-03-17 15:34:11,474 - __main__ - INFO - method == 0
+2018-03-17 15:34:11,474 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 15:34:11,474 - __main__ - INFO - train_net == True
+2018-03-17 15:34:11,474 - __main__ - INFO - generate_pics == True
+2018-03-17 15:34:11,474 - __main__ - INFO - resume_network == False
+2018-03-17 15:34:11,474 - __main__ - INFO - start building the net
+2018-03-17 15:35:10,447 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 15:35:10,447 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 15:35:10,447 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 15:35:10,448 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 15:35:10,448 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 15:35:10,448 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 15:35:10,448 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 15:35:10,448 - __main__ - INFO - model_name == model4
+2018-03-17 15:35:10,448 - __main__ - INFO - big_loop == 1
+2018-03-17 15:35:10,448 - __main__ - INFO - scale_num == 4
+2018-03-17 15:35:10,448 - __main__ - INFO - epoch_init == 100
+2018-03-17 15:35:10,448 - __main__ - INFO - strides == 20
+2018-03-17 15:35:10,448 - __main__ - INFO - batch_size == 4
+2018-03-17 15:35:10,448 - __main__ - INFO - max_idx == 92
+2018-03-17 15:35:10,448 - __main__ - INFO - data_size == 92
+2018-03-17 15:35:10,448 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 15:35:10,448 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 15:35:10,448 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 15:35:10,448 - __main__ - INFO - use_vgg == False
+2018-03-17 15:35:10,448 - __main__ - INFO - use_L1_loss == False
+2018-03-17 15:35:10,448 - __main__ - INFO - wgan == False
+2018-03-17 15:35:10,448 - __main__ - INFO - init_g == True
+2018-03-17 15:35:10,448 - __main__ - INFO - init_d == True
+2018-03-17 15:35:10,448 - __main__ - INFO - init_b == False
+2018-03-17 15:35:10,448 - __main__ - INFO - method == 0
+2018-03-17 15:35:10,448 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 15:35:10,448 - __main__ - INFO - train_net == True
+2018-03-17 15:35:10,448 - __main__ - INFO - generate_pics == True
+2018-03-17 15:35:10,449 - __main__ - INFO - resume_network == False
+2018-03-17 15:35:10,449 - __main__ - INFO - start building the net
+2018-03-17 15:48:17,470 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 15:48:17,471 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 15:48:17,471 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 15:48:17,471 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 15:48:17,471 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 15:48:17,471 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 15:48:17,471 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 15:48:17,471 - __main__ - INFO - model_name == model4
+2018-03-17 15:48:17,471 - __main__ - INFO - big_loop == 1
+2018-03-17 15:48:17,471 - __main__ - INFO - scale_num == 4
+2018-03-17 15:48:17,472 - __main__ - INFO - epoch_init == 100
+2018-03-17 15:48:17,472 - __main__ - INFO - strides == 20
+2018-03-17 15:48:17,472 - __main__ - INFO - batch_size == 4
+2018-03-17 15:48:17,472 - __main__ - INFO - max_idx == 92
+2018-03-17 15:48:17,472 - __main__ - INFO - data_size == 92
+2018-03-17 15:48:17,472 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 15:48:17,472 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 15:48:17,472 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 15:48:17,472 - __main__ - INFO - use_vgg == False
+2018-03-17 15:48:17,472 - __main__ - INFO - use_L1_loss == False
+2018-03-17 15:48:17,472 - __main__ - INFO - wgan == False
+2018-03-17 15:48:17,473 - __main__ - INFO - init_g == True
+2018-03-17 15:48:17,473 - __main__ - INFO - init_d == True
+2018-03-17 15:48:17,473 - __main__ - INFO - init_b == False
+2018-03-17 15:48:17,473 - __main__ - INFO - method == 0
+2018-03-17 15:48:17,473 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 15:48:17,473 - __main__ - INFO - train_net == True
+2018-03-17 15:48:17,473 - __main__ - INFO - generate_pics == True
+2018-03-17 15:48:17,473 - __main__ - INFO - resume_network == False
+2018-03-17 15:48:17,473 - __main__ - INFO - start building the net
+2018-03-17 15:49:35,010 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 15:49:35,010 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 15:49:35,010 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 15:49:35,010 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 15:49:35,010 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 15:49:35,010 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 15:49:35,010 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 15:49:35,010 - __main__ - INFO - model_name == model4
+2018-03-17 15:49:35,010 - __main__ - INFO - big_loop == 1
+2018-03-17 15:49:35,010 - __main__ - INFO - scale_num == 4
+2018-03-17 15:49:35,010 - __main__ - INFO - epoch_init == 100
+2018-03-17 15:49:35,011 - __main__ - INFO - strides == 20
+2018-03-17 15:49:35,011 - __main__ - INFO - batch_size == 4
+2018-03-17 15:49:35,011 - __main__ - INFO - max_idx == 92
+2018-03-17 15:49:35,011 - __main__ - INFO - data_size == 92
+2018-03-17 15:49:35,011 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 15:49:35,011 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 15:49:35,011 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 15:49:35,011 - __main__ - INFO - use_vgg == False
+2018-03-17 15:49:35,011 - __main__ - INFO - use_L1_loss == False
+2018-03-17 15:49:35,011 - __main__ - INFO - wgan == False
+2018-03-17 15:49:35,011 - __main__ - INFO - init_g == True
+2018-03-17 15:49:35,011 - __main__ - INFO - init_d == True
+2018-03-17 15:49:35,012 - __main__ - INFO - init_b == False
+2018-03-17 15:49:35,012 - __main__ - INFO - method == 0
+2018-03-17 15:49:35,012 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 15:49:35,012 - __main__ - INFO - train_net == True
+2018-03-17 15:49:35,012 - __main__ - INFO - generate_pics == True
+2018-03-17 15:49:35,012 - __main__ - INFO - resume_network == False
+2018-03-17 15:49:35,012 - __main__ - INFO - start building the net
+2018-03-17 15:49:57,822 - __main__ - INFO - start training the net
+2018-03-17 16:38:12,839 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 16:38:12,839 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 16:38:12,839 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 16:38:12,839 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 16:38:12,839 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 16:38:12,839 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 16:38:12,839 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 16:38:12,839 - __main__ - INFO - model_name == model4
+2018-03-17 16:38:12,839 - __main__ - INFO - big_loop == 1
+2018-03-17 16:38:12,840 - __main__ - INFO - scale_num == 4
+2018-03-17 16:38:12,840 - __main__ - INFO - epoch_init == 100
+2018-03-17 16:38:12,840 - __main__ - INFO - strides == 20
+2018-03-17 16:38:12,840 - __main__ - INFO - batch_size == 4
+2018-03-17 16:38:12,840 - __main__ - INFO - max_idx == 92
+2018-03-17 16:38:12,840 - __main__ - INFO - data_size == 92
+2018-03-17 16:38:12,840 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 16:38:12,840 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 16:38:12,840 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 16:38:12,840 - __main__ - INFO - use_vgg == False
+2018-03-17 16:38:12,840 - __main__ - INFO - use_L1_loss == False
+2018-03-17 16:38:12,841 - __main__ - INFO - wgan == False
+2018-03-17 16:38:12,841 - __main__ - INFO - init_g == True
+2018-03-17 16:38:12,841 - __main__ - INFO - init_d == True
+2018-03-17 16:38:12,841 - __main__ - INFO - init_b == False
+2018-03-17 16:38:12,841 - __main__ - INFO - method == 0
+2018-03-17 16:38:12,841 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 16:38:12,841 - __main__ - INFO - train_net == True
+2018-03-17 16:38:12,841 - __main__ - INFO - generate_pics == True
+2018-03-17 16:38:12,841 - __main__ - INFO - resume_network == False
+2018-03-17 16:38:12,841 - __main__ - INFO - start building the net
+2018-03-17 16:38:35,125 - __main__ - INFO - start training the net
+2018-03-17 16:47:00,758 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 16:47:00,758 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 16:47:00,758 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 16:47:00,758 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 16:47:00,758 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 16:47:00,758 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 16:47:00,759 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 16:47:00,759 - __main__ - INFO - model_name == model4
+2018-03-17 16:47:00,759 - __main__ - INFO - big_loop == 1
+2018-03-17 16:47:00,759 - __main__ - INFO - scale_num == 4
+2018-03-17 16:47:00,759 - __main__ - INFO - epoch_init == 100
+2018-03-17 16:47:00,759 - __main__ - INFO - strides == 20
+2018-03-17 16:47:00,759 - __main__ - INFO - batch_size == 4
+2018-03-17 16:47:00,759 - __main__ - INFO - max_idx == 92
+2018-03-17 16:47:00,759 - __main__ - INFO - data_size == 92
+2018-03-17 16:47:00,759 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 16:47:00,759 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 16:47:00,759 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 16:47:00,759 - __main__ - INFO - use_vgg == False
+2018-03-17 16:47:00,760 - __main__ - INFO - use_L1_loss == False
+2018-03-17 16:47:00,760 - __main__ - INFO - wgan == False
+2018-03-17 16:47:00,760 - __main__ - INFO - init_g == True
+2018-03-17 16:47:00,760 - __main__ - INFO - init_d == True
+2018-03-17 16:47:00,760 - __main__ - INFO - init_b == False
+2018-03-17 16:47:00,760 - __main__ - INFO - method == 0
+2018-03-17 16:47:00,760 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 16:47:00,760 - __main__ - INFO - train_net == True
+2018-03-17 16:47:00,760 - __main__ - INFO - generate_pics == True
+2018-03-17 16:47:00,760 - __main__ - INFO - resume_network == False
+2018-03-17 16:47:00,760 - __main__ - INFO - start building the net
+2018-03-17 16:47:23,340 - __main__ - INFO - start training the net
+2018-03-17 16:54:19,725 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 16:54:19,725 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 16:54:19,725 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 16:54:19,725 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 16:54:19,725 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 16:54:19,725 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 16:54:19,725 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 16:54:19,725 - __main__ - INFO - model_name == model4
+2018-03-17 16:54:19,725 - __main__ - INFO - big_loop == 1
+2018-03-17 16:54:19,725 - __main__ - INFO - scale_num == 4
+2018-03-17 16:54:19,725 - __main__ - INFO - epoch_init == 100
+2018-03-17 16:54:19,725 - __main__ - INFO - strides == 20
+2018-03-17 16:54:19,725 - __main__ - INFO - batch_size == 4
+2018-03-17 16:54:19,725 - __main__ - INFO - max_idx == 92
+2018-03-17 16:54:19,725 - __main__ - INFO - data_size == 92
+2018-03-17 16:54:19,725 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 16:54:19,725 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 16:54:19,725 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 16:54:19,725 - __main__ - INFO - use_vgg == False
+2018-03-17 16:54:19,725 - __main__ - INFO - use_L1_loss == False
+2018-03-17 16:54:19,726 - __main__ - INFO - wgan == False
+2018-03-17 16:54:19,726 - __main__ - INFO - init_g == True
+2018-03-17 16:54:19,726 - __main__ - INFO - init_d == True
+2018-03-17 16:54:19,726 - __main__ - INFO - init_b == False
+2018-03-17 16:54:19,726 - __main__ - INFO - method == 0
+2018-03-17 16:54:19,726 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 16:54:19,726 - __main__ - INFO - train_net == True
+2018-03-17 16:54:19,726 - __main__ - INFO - generate_pics == True
+2018-03-17 16:54:19,726 - __main__ - INFO - resume_network == False
+2018-03-17 16:54:19,726 - __main__ - INFO - start building the net
+2018-03-17 16:54:41,888 - __main__ - INFO - start training the net
+2018-03-17 17:00:58,795 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 17:00:58,795 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 17:00:58,797 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 17:00:58,797 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 17:00:58,797 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 17:00:58,797 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 17:00:58,798 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 17:00:58,798 - __main__ - INFO - model_name == model4
+2018-03-17 17:00:58,798 - __main__ - INFO - big_loop == 1
+2018-03-17 17:00:58,798 - __main__ - INFO - scale_num == 4
+2018-03-17 17:00:58,798 - __main__ - INFO - epoch_init == 60
+2018-03-17 17:00:58,798 - __main__ - INFO - strides == 20
+2018-03-17 17:00:58,798 - __main__ - INFO - batch_size == 4
+2018-03-17 17:00:58,798 - __main__ - INFO - max_idx == 92
+2018-03-17 17:00:58,798 - __main__ - INFO - data_size == 92
+2018-03-17 17:00:58,798 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 17:00:58,799 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 17:00:58,799 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 17:00:58,799 - __main__ - INFO - use_vgg == False
+2018-03-17 17:00:58,799 - __main__ - INFO - use_L1_loss == False
+2018-03-17 17:00:58,799 - __main__ - INFO - wgan == False
+2018-03-17 17:00:58,799 - __main__ - INFO - init_g == True
+2018-03-17 17:00:58,799 - __main__ - INFO - init_d == True
+2018-03-17 17:00:58,799 - __main__ - INFO - init_b == False
+2018-03-17 17:00:58,799 - __main__ - INFO - method == 0
+2018-03-17 17:00:58,799 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 17:00:58,799 - __main__ - INFO - train_net == True
+2018-03-17 17:00:58,799 - __main__ - INFO - generate_pics == True
+2018-03-17 17:00:58,799 - __main__ - INFO - resume_network == False
+2018-03-17 17:00:58,800 - __main__ - INFO - start building the net
+2018-03-17 17:01:21,007 - __main__ - INFO - start training the net
+2018-03-17 17:07:34,590 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 17:07:34,590 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 17:07:34,591 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 17:07:34,592 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 17:07:34,592 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 17:07:34,592 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 17:07:34,592 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 17:07:34,592 - __main__ - INFO - model_name == model4
+2018-03-17 17:07:34,592 - __main__ - INFO - big_loop == 1
+2018-03-17 17:07:34,592 - __main__ - INFO - scale_num == 4
+2018-03-17 17:07:34,592 - __main__ - INFO - epoch_init == 60
+2018-03-17 17:07:34,592 - __main__ - INFO - strides == 20
+2018-03-17 17:07:34,592 - __main__ - INFO - batch_size == 4
+2018-03-17 17:07:34,593 - __main__ - INFO - max_idx == 92
+2018-03-17 17:07:34,593 - __main__ - INFO - data_size == 92
+2018-03-17 17:07:34,593 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 17:07:34,593 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 17:07:34,593 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 17:07:34,593 - __main__ - INFO - use_vgg == False
+2018-03-17 17:07:34,593 - __main__ - INFO - use_L1_loss == False
+2018-03-17 17:07:34,593 - __main__ - INFO - wgan == False
+2018-03-17 17:07:34,593 - __main__ - INFO - init_g == True
+2018-03-17 17:07:34,593 - __main__ - INFO - init_d == True
+2018-03-17 17:07:34,594 - __main__ - INFO - init_b == False
+2018-03-17 17:07:34,594 - __main__ - INFO - method == 0
+2018-03-17 17:07:34,594 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 17:07:34,594 - __main__ - INFO - train_net == True
+2018-03-17 17:07:34,594 - __main__ - INFO - generate_pics == True
+2018-03-17 17:07:34,594 - __main__ - INFO - resume_network == False
+2018-03-17 17:07:34,594 - __main__ - INFO - start building the net
+2018-03-17 17:07:57,293 - __main__ - INFO - start training the net
+2018-03-17 17:17:05,796 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 17:17:05,797 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 17:17:05,797 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 17:17:05,797 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 17:17:05,797 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 17:17:05,797 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 17:17:05,797 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 17:17:05,797 - __main__ - INFO - model_name == model4
+2018-03-17 17:17:05,797 - __main__ - INFO - big_loop == 1
+2018-03-17 17:17:05,797 - __main__ - INFO - scale_num == 4
+2018-03-17 17:17:05,797 - __main__ - INFO - epoch_init == 60
+2018-03-17 17:17:05,797 - __main__ - INFO - strides == 20
+2018-03-17 17:17:05,797 - __main__ - INFO - batch_size == 4
+2018-03-17 17:17:05,797 - __main__ - INFO - max_idx == 92
+2018-03-17 17:17:05,798 - __main__ - INFO - data_size == 92
+2018-03-17 17:17:05,798 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 17:17:05,798 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 17:17:05,798 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 17:17:05,798 - __main__ - INFO - use_vgg == False
+2018-03-17 17:17:05,798 - __main__ - INFO - use_L1_loss == False
+2018-03-17 17:17:05,798 - __main__ - INFO - wgan == False
+2018-03-17 17:17:05,798 - __main__ - INFO - init_g == True
+2018-03-17 17:17:05,798 - __main__ - INFO - init_d == True
+2018-03-17 17:17:05,798 - __main__ - INFO - init_b == False
+2018-03-17 17:17:05,798 - __main__ - INFO - method == 0
+2018-03-17 17:17:05,798 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 17:17:05,798 - __main__ - INFO - train_net == True
+2018-03-17 17:17:05,798 - __main__ - INFO - generate_pics == True
+2018-03-17 17:17:05,798 - __main__ - INFO - resume_network == False
+2018-03-17 17:17:05,799 - __main__ - INFO - start building the net
+2018-03-17 17:17:28,741 - __main__ - INFO - start training the net
+2018-03-17 17:27:25,861 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 17:27:25,861 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 17:27:25,864 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 17:27:25,864 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 17:27:25,864 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 17:27:25,864 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 17:27:25,864 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 17:27:25,864 - __main__ - INFO - model_name == model4
+2018-03-17 17:27:25,864 - __main__ - INFO - big_loop == 1
+2018-03-17 17:27:25,864 - __main__ - INFO - scale_num == 4
+2018-03-17 17:27:25,864 - __main__ - INFO - epoch_init == 60
+2018-03-17 17:27:25,864 - __main__ - INFO - strides == 20
+2018-03-17 17:27:25,864 - __main__ - INFO - batch_size == 4
+2018-03-17 17:27:25,864 - __main__ - INFO - max_idx == 92
+2018-03-17 17:27:25,865 - __main__ - INFO - data_size == 92
+2018-03-17 17:27:25,865 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 17:27:25,865 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 17:27:25,865 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 17:27:25,865 - __main__ - INFO - use_vgg == False
+2018-03-17 17:27:25,865 - __main__ - INFO - use_L1_loss == False
+2018-03-17 17:27:25,865 - __main__ - INFO - wgan == False
+2018-03-17 17:27:25,865 - __main__ - INFO - init_g == True
+2018-03-17 17:27:25,865 - __main__ - INFO - init_d == True
+2018-03-17 17:27:25,866 - __main__ - INFO - init_b == False
+2018-03-17 17:27:25,866 - __main__ - INFO - method == 0
+2018-03-17 17:27:25,866 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 17:27:25,866 - __main__ - INFO - train_net == True
+2018-03-17 17:27:25,866 - __main__ - INFO - generate_pics == True
+2018-03-17 17:27:25,866 - __main__ - INFO - resume_network == False
+2018-03-17 17:27:25,866 - __main__ - INFO - start building the net
+2018-03-17 17:27:48,522 - __main__ - INFO - start training the net
+2018-03-17 17:44:00,954 - __main__ - INFO - end training the net
+2018-03-17 17:44:00,954 - __main__ - INFO - load params
+2018-03-17 17:44:01,652 - __main__ - INFO - read pics
+2018-03-17 17:44:01,663 - __main__ - INFO - start evaluating pics
+2018-03-17 17:50:09,683 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 17:50:09,683 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 17:50:09,683 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 17:50:09,684 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 17:50:09,684 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 17:50:09,684 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 17:50:09,684 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 17:50:09,684 - __main__ - INFO - model_name == model4
+2018-03-17 17:50:09,684 - __main__ - INFO - big_loop == 1
+2018-03-17 17:50:09,684 - __main__ - INFO - scale_num == 4
+2018-03-17 17:50:09,684 - __main__ - INFO - epoch_init == 60
+2018-03-17 17:50:09,684 - __main__ - INFO - strides == 20
+2018-03-17 17:50:09,684 - __main__ - INFO - batch_size == 4
+2018-03-17 17:50:09,684 - __main__ - INFO - max_idx == 92
+2018-03-17 17:50:09,684 - __main__ - INFO - data_size == 92
+2018-03-17 17:50:09,684 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 17:50:09,684 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 17:50:09,684 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 17:50:09,684 - __main__ - INFO - use_vgg == False
+2018-03-17 17:50:09,685 - __main__ - INFO - use_L1_loss == False
+2018-03-17 17:50:09,685 - __main__ - INFO - wgan == False
+2018-03-17 17:50:09,685 - __main__ - INFO - init_g == True
+2018-03-17 17:50:09,685 - __main__ - INFO - init_d == True
+2018-03-17 17:50:09,685 - __main__ - INFO - init_b == False
+2018-03-17 17:50:09,685 - __main__ - INFO - method == 0
+2018-03-17 17:50:09,685 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 17:50:09,685 - __main__ - INFO - train_net == True
+2018-03-17 17:50:09,685 - __main__ - INFO - generate_pics == True
+2018-03-17 17:50:09,685 - __main__ - INFO - resume_network == False
+2018-03-17 17:50:09,685 - __main__ - INFO - start building the net
+2018-03-17 17:50:31,965 - __main__ - INFO - start training the net
+2018-03-17 17:50:36,809 - __main__ - INFO - end training the net
+2018-03-17 17:50:36,809 - __main__ - INFO - load params
+2018-03-17 17:50:37,583 - __main__ - INFO - read pics
+2018-03-17 17:50:37,612 - __main__ - INFO - start evaluating pics
+2018-03-17 19:01:18,451 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 19:01:18,451 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 19:01:18,453 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 19:01:18,453 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 19:01:18,453 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 19:01:18,454 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 19:01:18,454 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 19:01:18,454 - __main__ - INFO - model_name == model4
+2018-03-17 19:01:18,454 - __main__ - INFO - big_loop == 1
+2018-03-17 19:01:18,454 - __main__ - INFO - scale_num == 4
+2018-03-17 19:01:18,454 - __main__ - INFO - epoch_init == 60
+2018-03-17 19:01:18,454 - __main__ - INFO - strides == 20
+2018-03-17 19:01:18,454 - __main__ - INFO - batch_size == 4
+2018-03-17 19:01:18,454 - __main__ - INFO - max_idx == 92
+2018-03-17 19:01:18,454 - __main__ - INFO - data_size == 92
+2018-03-17 19:01:18,454 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 19:01:18,455 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 19:01:18,455 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 19:01:18,455 - __main__ - INFO - use_vgg == False
+2018-03-17 19:01:18,455 - __main__ - INFO - use_L1_loss == False
+2018-03-17 19:01:18,455 - __main__ - INFO - wgan == False
+2018-03-17 19:01:18,455 - __main__ - INFO - init_g == True
+2018-03-17 19:01:18,455 - __main__ - INFO - init_d == True
+2018-03-17 19:01:18,455 - __main__ - INFO - init_b == False
+2018-03-17 19:01:18,455 - __main__ - INFO - method == 0
+2018-03-17 19:01:18,456 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 19:01:18,456 - __main__ - INFO - train_net == True
+2018-03-17 19:01:18,456 - __main__ - INFO - generate_pics == True
+2018-03-17 19:01:18,456 - __main__ - INFO - resume_network == False
+2018-03-17 19:01:18,456 - __main__ - INFO - start building the net
+2018-03-17 19:01:40,926 - __main__ - INFO - start training the net
+2018-03-17 19:01:45,768 - __main__ - INFO - end training the net
+2018-03-17 19:01:45,768 - __main__ - INFO - load params
+2018-03-17 19:01:46,539 - __main__ - INFO - read pics
+2018-03-17 19:01:46,564 - __main__ - INFO - start evaluating pics
+2018-03-17 19:01:48,154 - __main__ - INFO - end evaluating pics
+2018-03-17 19:02:37,426 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 19:02:37,427 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 19:02:37,427 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 19:02:37,427 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 19:02:37,427 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 19:02:37,427 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 19:02:37,427 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 19:02:37,427 - __main__ - INFO - model_name == model4
+2018-03-17 19:02:37,427 - __main__ - INFO - big_loop == 1
+2018-03-17 19:02:37,427 - __main__ - INFO - scale_num == 4
+2018-03-17 19:02:37,427 - __main__ - INFO - epoch_init == 60
+2018-03-17 19:02:37,428 - __main__ - INFO - strides == 20
+2018-03-17 19:02:37,428 - __main__ - INFO - batch_size == 4
+2018-03-17 19:02:37,428 - __main__ - INFO - max_idx == 92
+2018-03-17 19:02:37,428 - __main__ - INFO - data_size == 92
+2018-03-17 19:02:37,428 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 19:02:37,428 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 19:02:37,428 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 19:02:37,428 - __main__ - INFO - use_vgg == False
+2018-03-17 19:02:37,428 - __main__ - INFO - use_L1_loss == False
+2018-03-17 19:02:37,428 - __main__ - INFO - wgan == False
+2018-03-17 19:02:37,428 - __main__ - INFO - init_g == True
+2018-03-17 19:02:37,429 - __main__ - INFO - init_d == True
+2018-03-17 19:02:37,429 - __main__ - INFO - init_b == False
+2018-03-17 19:02:37,429 - __main__ - INFO - method == 0
+2018-03-17 19:02:37,429 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 19:02:37,429 - __main__ - INFO - train_net == True
+2018-03-17 19:02:37,429 - __main__ - INFO - generate_pics == True
+2018-03-17 19:02:37,429 - __main__ - INFO - resume_network == False
+2018-03-17 19:02:37,429 - __main__ - INFO - start building the net
+2018-03-17 19:03:00,239 - __main__ - INFO - start training the net
+2018-03-17 19:03:04,950 - __main__ - INFO - end training the net
+2018-03-17 19:03:04,950 - __main__ - INFO - load params
+2018-03-17 19:03:05,725 - __main__ - INFO - read pics
+2018-03-17 19:03:05,737 - __main__ - INFO - start evaluating pics
+2018-03-17 19:03:07,329 - __main__ - INFO - end evaluating pics
+2018-03-17 19:12:44,536 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-17 19:12:44,536 - __main__ - INFO - svg_dir == dataset/Test/Set5/
+2018-03-17 19:12:44,536 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-17 19:12:44,536 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-17 19:12:44,536 - __main__ - INFO - test_output_dir == test_output/
+2018-03-17 19:12:44,536 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-17 19:12:44,536 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-17 19:12:44,536 - __main__ - INFO - model_name == model4
+2018-03-17 19:12:44,536 - __main__ - INFO - big_loop == 1
+2018-03-17 19:12:44,536 - __main__ - INFO - scale_num == 4
+2018-03-17 19:12:44,536 - __main__ - INFO - epoch_init == 5000
+2018-03-17 19:12:44,536 - __main__ - INFO - strides == 20
+2018-03-17 19:12:44,536 - __main__ - INFO - batch_size == 4
+2018-03-17 19:12:44,537 - __main__ - INFO - max_idx == 92
+2018-03-17 19:12:44,537 - __main__ - INFO - data_size == 92
+2018-03-17 19:12:44,537 - __main__ - INFO - lr_init == 0.0001
+2018-03-17 19:12:44,537 - __main__ - INFO - learning_rate == 1e-05
+2018-03-17 19:12:44,537 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-17 19:12:44,537 - __main__ - INFO - use_vgg == False
+2018-03-17 19:12:44,537 - __main__ - INFO - use_L1_loss == False
+2018-03-17 19:12:44,537 - __main__ - INFO - wgan == False
+2018-03-17 19:12:44,537 - __main__ - INFO - init_g == True
+2018-03-17 19:12:44,537 - __main__ - INFO - init_d == True
+2018-03-17 19:12:44,537 - __main__ - INFO - init_b == False
+2018-03-17 19:12:44,537 - __main__ - INFO - method == 0
+2018-03-17 19:12:44,537 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-17 19:12:44,537 - __main__ - INFO - train_net == True
+2018-03-17 19:12:44,537 - __main__ - INFO - generate_pics == True
+2018-03-17 19:12:44,538 - __main__ - INFO - resume_network == False
+2018-03-17 19:12:44,538 - __main__ - INFO - start building the net
+2018-03-17 19:13:06,396 - __main__ - INFO - start training the net
+2018-03-18 16:09:55,989 - __main__ - INFO - end training the net
+2018-03-18 16:09:55,989 - __main__ - INFO - load params
+2018-03-18 16:09:56,926 - __main__ - INFO - read pics
+2018-03-18 16:09:56,937 - __main__ - INFO - start evaluating pics
+2018-03-18 16:09:57,989 - __main__ - INFO - end evaluating pics
+2018-03-18 17:49:53,389 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-18 17:49:53,389 - __main__ - INFO - svg_dir == dataset/Test/Set14/
+2018-03-18 17:49:53,389 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-18 17:49:53,390 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-18 17:49:53,390 - __main__ - INFO - test_output_dir == test_output/
+2018-03-18 17:49:53,390 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-18 17:49:53,390 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-18 17:49:53,390 - __main__ - INFO - model_name == model4
+2018-03-18 17:49:53,390 - __main__ - INFO - big_loop == 1
+2018-03-18 17:49:53,390 - __main__ - INFO - scale_num == 4
+2018-03-18 17:49:53,390 - __main__ - INFO - epoch_init == 5000
+2018-03-18 17:49:53,390 - __main__ - INFO - strides == 20
+2018-03-18 17:49:53,390 - __main__ - INFO - batch_size == 4
+2018-03-18 17:49:53,390 - __main__ - INFO - max_idx == 92
+2018-03-18 17:49:53,390 - __main__ - INFO - data_size == 92
+2018-03-18 17:49:53,390 - __main__ - INFO - lr_init == 0.0001
+2018-03-18 17:49:53,390 - __main__ - INFO - learning_rate == 1e-05
+2018-03-18 17:49:53,390 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-18 17:49:53,390 - __main__ - INFO - use_vgg == False
+2018-03-18 17:49:53,390 - __main__ - INFO - use_L1_loss == False
+2018-03-18 17:49:53,390 - __main__ - INFO - wgan == False
+2018-03-18 17:49:53,390 - __main__ - INFO - init_g == True
+2018-03-18 17:49:53,390 - __main__ - INFO - init_d == True
+2018-03-18 17:49:53,390 - __main__ - INFO - init_b == False
+2018-03-18 17:49:53,390 - __main__ - INFO - method == 0
+2018-03-18 17:49:53,390 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-18 17:49:53,391 - __main__ - INFO - train_net == True
+2018-03-18 17:49:53,391 - __main__ - INFO - generate_pics == True
+2018-03-18 17:49:53,391 - __main__ - INFO - resume_network == False
+2018-03-18 17:49:53,391 - __main__ - INFO - start building the net
+2018-03-18 17:50:11,986 - __main__ - INFO - start training the net
+2018-03-18 17:50:16,480 - __main__ - INFO - end training the net
+2018-03-18 17:50:16,481 - __main__ - INFO - load params
+2018-03-18 17:50:17,277 - __main__ - INFO - read pics
+2018-03-18 17:50:17,287 - __main__ - INFO - start evaluating pics
+2018-03-18 17:50:18,600 - __main__ - INFO - end evaluating pics
+2018-03-18 17:50:55,598 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-18 17:50:55,598 - __main__ - INFO - svg_dir == dataset/Test/Set14/
+2018-03-18 17:50:55,598 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-18 17:50:55,598 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-18 17:50:55,598 - __main__ - INFO - test_output_dir == test_output/
+2018-03-18 17:50:55,598 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-18 17:50:55,598 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-18 17:50:55,598 - __main__ - INFO - model_name == model4
+2018-03-18 17:50:55,598 - __main__ - INFO - big_loop == 1
+2018-03-18 17:50:55,599 - __main__ - INFO - scale_num == 4
+2018-03-18 17:50:55,599 - __main__ - INFO - epoch_init == 5000
+2018-03-18 17:50:55,599 - __main__ - INFO - strides == 20
+2018-03-18 17:50:55,599 - __main__ - INFO - batch_size == 4
+2018-03-18 17:50:55,599 - __main__ - INFO - max_idx == 92
+2018-03-18 17:50:55,599 - __main__ - INFO - data_size == 92
+2018-03-18 17:50:55,599 - __main__ - INFO - lr_init == 0.0001
+2018-03-18 17:50:55,599 - __main__ - INFO - learning_rate == 1e-05
+2018-03-18 17:50:55,599 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-18 17:50:55,599 - __main__ - INFO - use_vgg == False
+2018-03-18 17:50:55,599 - __main__ - INFO - use_L1_loss == False
+2018-03-18 17:50:55,600 - __main__ - INFO - wgan == False
+2018-03-18 17:50:55,600 - __main__ - INFO - init_g == True
+2018-03-18 17:50:55,600 - __main__ - INFO - init_d == True
+2018-03-18 17:50:55,600 - __main__ - INFO - init_b == False
+2018-03-18 17:50:55,600 - __main__ - INFO - method == 0
+2018-03-18 17:50:55,600 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-18 17:50:55,600 - __main__ - INFO - train_net == True
+2018-03-18 17:50:55,600 - __main__ - INFO - generate_pics == True
+2018-03-18 17:50:55,600 - __main__ - INFO - resume_network == False
+2018-03-18 17:50:55,600 - __main__ - INFO - start building the net
+2018-03-18 17:51:14,088 - __main__ - INFO - start training the net
+2018-03-18 17:51:18,355 - __main__ - INFO - end training the net
+2018-03-18 17:51:18,355 - __main__ - INFO - load params
+2018-03-18 17:51:19,079 - __main__ - INFO - read pics
+2018-03-18 17:53:55,544 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-18 17:53:55,545 - __main__ - INFO - svg_dir == dataset/Test/Set14/
+2018-03-18 17:53:55,545 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-18 17:53:55,545 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-18 17:53:55,545 - __main__ - INFO - test_output_dir == test_output/
+2018-03-18 17:53:55,545 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-18 17:53:55,545 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-18 17:53:55,545 - __main__ - INFO - model_name == model4
+2018-03-18 17:53:55,545 - __main__ - INFO - big_loop == 1
+2018-03-18 17:53:55,545 - __main__ - INFO - scale_num == 4
+2018-03-18 17:53:55,545 - __main__ - INFO - epoch_init == 5000
+2018-03-18 17:53:55,545 - __main__ - INFO - strides == 20
+2018-03-18 17:53:55,545 - __main__ - INFO - batch_size == 4
+2018-03-18 17:53:55,545 - __main__ - INFO - max_idx == 92
+2018-03-18 17:53:55,545 - __main__ - INFO - data_size == 92
+2018-03-18 17:53:55,545 - __main__ - INFO - lr_init == 0.0001
+2018-03-18 17:53:55,545 - __main__ - INFO - learning_rate == 1e-05
+2018-03-18 17:53:55,545 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-18 17:53:55,545 - __main__ - INFO - use_vgg == False
+2018-03-18 17:53:55,545 - __main__ - INFO - use_L1_loss == False
+2018-03-18 17:53:55,545 - __main__ - INFO - wgan == False
+2018-03-18 17:53:55,545 - __main__ - INFO - init_g == True
+2018-03-18 17:53:55,545 - __main__ - INFO - init_d == True
+2018-03-18 17:53:55,545 - __main__ - INFO - init_b == False
+2018-03-18 17:53:55,545 - __main__ - INFO - method == 0
+2018-03-18 17:53:55,545 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-18 17:53:55,545 - __main__ - INFO - train_net == True
+2018-03-18 17:53:55,546 - __main__ - INFO - generate_pics == True
+2018-03-18 17:53:55,546 - __main__ - INFO - resume_network == False
+2018-03-18 17:53:55,546 - __main__ - INFO - start building the net
+2018-03-18 17:54:14,041 - __main__ - INFO - start training the net
+2018-03-18 17:54:18,851 - __main__ - INFO - end training the net
+2018-03-18 17:54:18,851 - __main__ - INFO - load params
+2018-03-18 17:54:19,602 - __main__ - INFO - read pics
+2018-03-18 17:54:19,628 - __main__ - INFO - start evaluating pics
+2018-03-18 17:54:21,786 - __main__ - INFO - end evaluating pics
+2018-03-18 17:58:07,781 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-18 17:58:07,781 - __main__ - INFO - svg_dir == dataset/Test/Set14/
+2018-03-18 17:58:07,782 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-18 17:58:07,782 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-18 17:58:07,782 - __main__ - INFO - test_output_dir == test_output/
+2018-03-18 17:58:07,782 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-18 17:58:07,783 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-18 17:58:07,783 - __main__ - INFO - model_name == model4
+2018-03-18 17:58:07,783 - __main__ - INFO - big_loop == 1
+2018-03-18 17:58:07,783 - __main__ - INFO - scale_num == 4
+2018-03-18 17:58:07,783 - __main__ - INFO - epoch_init == 5000
+2018-03-18 17:58:07,783 - __main__ - INFO - strides == 20
+2018-03-18 17:58:07,783 - __main__ - INFO - batch_size == 4
+2018-03-18 17:58:07,783 - __main__ - INFO - max_idx == 92
+2018-03-18 17:58:07,783 - __main__ - INFO - data_size == 92
+2018-03-18 17:58:07,783 - __main__ - INFO - lr_init == 0.0001
+2018-03-18 17:58:07,783 - __main__ - INFO - learning_rate == 1e-05
+2018-03-18 17:58:07,783 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-18 17:58:07,783 - __main__ - INFO - use_vgg == False
+2018-03-18 17:58:07,783 - __main__ - INFO - use_L1_loss == False
+2018-03-18 17:58:07,783 - __main__ - INFO - wgan == False
+2018-03-18 17:58:07,784 - __main__ - INFO - init_g == True
+2018-03-18 17:58:07,784 - __main__ - INFO - init_d == True
+2018-03-18 17:58:07,784 - __main__ - INFO - init_b == False
+2018-03-18 17:58:07,784 - __main__ - INFO - method == 0
+2018-03-18 17:58:07,784 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-18 17:58:07,784 - __main__ - INFO - train_net == True
+2018-03-18 17:58:07,784 - __main__ - INFO - generate_pics == True
+2018-03-18 17:58:07,784 - __main__ - INFO - resume_network == False
+2018-03-18 17:58:07,784 - __main__ - INFO - start building the net
+2018-03-18 17:58:26,282 - __main__ - INFO - start training the net
+2018-03-18 18:24:14,670 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-03-18 18:24:14,670 - __main__ - INFO - svg_dir == dataset/Test/Set14/
+2018-03-18 18:24:14,670 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-03-18 18:24:14,670 - __main__ - INFO - output_dir == pic_smooth/
+2018-03-18 18:24:14,670 - __main__ - INFO - test_output_dir == test_output/
+2018-03-18 18:24:14,670 - __main__ - INFO - checkpoint_dir == save_model
+2018-03-18 18:24:14,670 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-03-18 18:24:14,671 - __main__ - INFO - model_name == model4
+2018-03-18 18:24:14,671 - __main__ - INFO - big_loop == 1
+2018-03-18 18:24:14,671 - __main__ - INFO - scale_num == 4
+2018-03-18 18:24:14,671 - __main__ - INFO - epoch_init == 5000
+2018-03-18 18:24:14,671 - __main__ - INFO - strides == 20
+2018-03-18 18:24:14,671 - __main__ - INFO - batch_size == 4
+2018-03-18 18:24:14,671 - __main__ - INFO - max_idx == 92
+2018-03-18 18:24:14,671 - __main__ - INFO - data_size == 92
+2018-03-18 18:24:14,671 - __main__ - INFO - lr_init == 0.0001
+2018-03-18 18:24:14,671 - __main__ - INFO - learning_rate == 1e-05
+2018-03-18 18:24:14,671 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-03-18 18:24:14,671 - __main__ - INFO - use_vgg == False
+2018-03-18 18:24:14,672 - __main__ - INFO - use_L1_loss == False
+2018-03-18 18:24:14,672 - __main__ - INFO - wgan == False
+2018-03-18 18:24:14,672 - __main__ - INFO - init_g == True
+2018-03-18 18:24:14,672 - __main__ - INFO - init_d == True
+2018-03-18 18:24:14,672 - __main__ - INFO - init_b == False
+2018-03-18 18:24:14,672 - __main__ - INFO - method == 0
+2018-03-18 18:24:14,672 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-03-18 18:24:14,672 - __main__ - INFO - train_net == True
+2018-03-18 18:24:14,672 - __main__ - INFO - generate_pics == True
+2018-03-18 18:24:14,672 - __main__ - INFO - resume_network == False
+2018-03-18 18:24:14,672 - __main__ - INFO - start building the net
+2018-03-18 18:24:31,999 - __main__ - INFO - start training the net
+2018-03-19 15:19:35,961 - __main__ - INFO - end training the net
+2018-03-19 15:19:35,961 - __main__ - INFO - load params
+2018-03-19 15:19:36,851 - __main__ - INFO - read pics
+2018-03-19 15:19:36,880 - __main__ - INFO - start evaluating pics
+2018-03-19 15:19:38,722 - __main__ - INFO - end evaluating pics
+2018-04-09 12:55:14,854 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-09 12:55:14,854 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-09 12:55:14,854 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-09 12:55:14,854 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-09 12:55:14,855 - __main__ - INFO - test_output_dir == test_output/
+2018-04-09 12:55:14,855 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-09 12:55:14,855 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-09 12:55:14,855 - __main__ - INFO - model_name == model4
+2018-04-09 12:55:14,855 - __main__ - INFO - big_loop == 1
+2018-04-09 12:55:14,855 - __main__ - INFO - scale_num == 4
+2018-04-09 12:55:14,855 - __main__ - INFO - epoch_init == 50
+2018-04-09 12:55:14,855 - __main__ - INFO - strides == 20
+2018-04-09 12:55:14,855 - __main__ - INFO - batch_size == 4
+2018-04-09 12:55:14,855 - __main__ - INFO - max_idx == 92
+2018-04-09 12:55:14,855 - __main__ - INFO - data_size == 92
+2018-04-09 12:55:14,856 - __main__ - INFO - lr_init == 0.0001
+2018-04-09 12:55:14,856 - __main__ - INFO - learning_rate == 1e-05
+2018-04-09 12:55:14,856 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-09 12:55:14,856 - __main__ - INFO - use_vgg == False
+2018-04-09 12:55:14,856 - __main__ - INFO - use_L1_loss == False
+2018-04-09 12:55:14,856 - __main__ - INFO - wgan == False
+2018-04-09 12:55:14,856 - __main__ - INFO - init_g == True
+2018-04-09 12:55:14,856 - __main__ - INFO - init_d == True
+2018-04-09 12:55:14,856 - __main__ - INFO - init_b == False
+2018-04-09 12:55:14,856 - __main__ - INFO - method == 0
+2018-04-09 12:55:14,857 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-09 12:55:14,857 - __main__ - INFO - train_net == True
+2018-04-09 12:55:14,857 - __main__ - INFO - generate_pics == True
+2018-04-09 12:55:14,857 - __main__ - INFO - resume_network == False
+2018-04-09 12:55:14,857 - __main__ - INFO - start building the net
+2018-04-09 12:55:32,182 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-09 12:55:32,182 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-09 12:55:32,182 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-09 12:55:32,182 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-09 12:55:32,182 - __main__ - INFO - test_output_dir == test_output/
+2018-04-09 12:55:32,183 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-09 12:55:32,183 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-09 12:55:32,183 - __main__ - INFO - model_name == model4
+2018-04-09 12:55:32,183 - __main__ - INFO - big_loop == 1
+2018-04-09 12:55:32,183 - __main__ - INFO - scale_num == 4
+2018-04-09 12:55:32,183 - __main__ - INFO - epoch_init == 50
+2018-04-09 12:55:32,183 - __main__ - INFO - strides == 20
+2018-04-09 12:55:32,183 - __main__ - INFO - batch_size == 4
+2018-04-09 12:55:32,183 - __main__ - INFO - max_idx == 92
+2018-04-09 12:55:32,183 - __main__ - INFO - data_size == 92
+2018-04-09 12:55:32,183 - __main__ - INFO - lr_init == 0.0001
+2018-04-09 12:55:32,183 - __main__ - INFO - learning_rate == 1e-05
+2018-04-09 12:55:32,183 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-09 12:55:32,183 - __main__ - INFO - use_vgg == False
+2018-04-09 12:55:32,183 - __main__ - INFO - use_L1_loss == False
+2018-04-09 12:55:32,183 - __main__ - INFO - wgan == False
+2018-04-09 12:55:32,183 - __main__ - INFO - init_g == True
+2018-04-09 12:55:32,183 - __main__ - INFO - init_d == True
+2018-04-09 12:55:32,183 - __main__ - INFO - init_b == False
+2018-04-09 12:55:32,183 - __main__ - INFO - method == 0
+2018-04-09 12:55:32,183 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-09 12:55:32,183 - __main__ - INFO - train_net == True
+2018-04-09 12:55:32,183 - __main__ - INFO - generate_pics == True
+2018-04-09 12:55:32,183 - __main__ - INFO - resume_network == False
+2018-04-09 12:55:32,183 - __main__ - INFO - start building the net
+2018-04-09 12:56:53,535 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-09 12:56:53,535 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-09 12:56:53,536 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-09 12:56:53,536 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-09 12:56:53,536 - __main__ - INFO - test_output_dir == test_output/
+2018-04-09 12:56:53,536 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-09 12:56:53,536 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-09 12:56:53,536 - __main__ - INFO - model_name == model4
+2018-04-09 12:56:53,536 - __main__ - INFO - big_loop == 1
+2018-04-09 12:56:53,536 - __main__ - INFO - scale_num == 4
+2018-04-09 12:56:53,536 - __main__ - INFO - epoch_init == 50
+2018-04-09 12:56:53,536 - __main__ - INFO - strides == 20
+2018-04-09 12:56:53,536 - __main__ - INFO - batch_size == 4
+2018-04-09 12:56:53,537 - __main__ - INFO - max_idx == 92
+2018-04-09 12:56:53,537 - __main__ - INFO - data_size == 92
+2018-04-09 12:56:53,537 - __main__ - INFO - lr_init == 0.0001
+2018-04-09 12:56:53,537 - __main__ - INFO - learning_rate == 1e-05
+2018-04-09 12:56:53,537 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-09 12:56:53,537 - __main__ - INFO - use_vgg == False
+2018-04-09 12:56:53,537 - __main__ - INFO - use_L1_loss == False
+2018-04-09 12:56:53,537 - __main__ - INFO - wgan == False
+2018-04-09 12:56:53,537 - __main__ - INFO - init_g == True
+2018-04-09 12:56:53,537 - __main__ - INFO - init_d == True
+2018-04-09 12:56:53,537 - __main__ - INFO - init_b == False
+2018-04-09 12:56:53,537 - __main__ - INFO - method == 0
+2018-04-09 12:56:53,538 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-09 12:56:53,538 - __main__ - INFO - train_net == True
+2018-04-09 12:56:53,538 - __main__ - INFO - generate_pics == True
+2018-04-09 12:56:53,538 - __main__ - INFO - resume_network == False
+2018-04-09 12:56:53,538 - __main__ - INFO - start building the net
+2018-04-09 12:57:11,984 - __main__ - INFO - start training the net
+2018-04-09 13:10:36,998 - __main__ - INFO - end training the net
+2018-04-09 13:10:36,998 - __main__ - INFO - load params
+2018-04-09 13:10:37,674 - __main__ - INFO - read pics
+2018-04-09 13:10:37,705 - __main__ - INFO - start evaluating pics
+2018-04-09 13:13:28,874 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-09 13:13:28,874 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-09 13:13:28,874 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-09 13:13:28,874 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-09 13:13:28,874 - __main__ - INFO - test_output_dir == test_output/
+2018-04-09 13:13:28,874 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-09 13:13:28,874 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-09 13:13:28,874 - __main__ - INFO - model_name == model4
+2018-04-09 13:13:28,874 - __main__ - INFO - big_loop == 1
+2018-04-09 13:13:28,875 - __main__ - INFO - scale_num == 4
+2018-04-09 13:13:28,875 - __main__ - INFO - epoch_init == 50
+2018-04-09 13:13:28,875 - __main__ - INFO - strides == 20
+2018-04-09 13:13:28,875 - __main__ - INFO - batch_size == 4
+2018-04-09 13:13:28,875 - __main__ - INFO - max_idx == 92
+2018-04-09 13:13:28,875 - __main__ - INFO - data_size == 92
+2018-04-09 13:13:28,875 - __main__ - INFO - lr_init == 0.0001
+2018-04-09 13:13:28,875 - __main__ - INFO - learning_rate == 1e-05
+2018-04-09 13:13:28,875 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-09 13:13:28,875 - __main__ - INFO - use_vgg == False
+2018-04-09 13:13:28,875 - __main__ - INFO - use_L1_loss == False
+2018-04-09 13:13:28,875 - __main__ - INFO - wgan == False
+2018-04-09 13:13:28,875 - __main__ - INFO - init_g == True
+2018-04-09 13:13:28,875 - __main__ - INFO - init_d == True
+2018-04-09 13:13:28,875 - __main__ - INFO - init_b == False
+2018-04-09 13:13:28,875 - __main__ - INFO - method == 0
+2018-04-09 13:13:28,875 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-09 13:13:28,875 - __main__ - INFO - train_net == True
+2018-04-09 13:13:28,875 - __main__ - INFO - generate_pics == True
+2018-04-09 13:13:28,876 - __main__ - INFO - resume_network == False
+2018-04-09 13:13:28,876 - __main__ - INFO - start building the net
+2018-04-09 13:13:47,108 - __main__ - INFO - start training the net
+2018-04-09 13:27:19,060 - __main__ - INFO - end training the net
+2018-04-09 13:27:19,060 - __main__ - INFO - load params
+2018-04-09 13:27:19,748 - __main__ - INFO - read pics
+2018-04-09 13:27:19,778 - __main__ - INFO - start evaluating pics
+2018-04-09 13:27:21,216 - __main__ - INFO - start evaluating pics
+2018-04-09 13:27:21,666 - __main__ - INFO - end evaluating pics
+2018-04-09 13:28:12,189 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-09 13:28:12,190 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-09 13:28:12,190 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-09 13:28:12,190 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-09 13:28:12,190 - __main__ - INFO - test_output_dir == test_output/
+2018-04-09 13:28:12,190 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-09 13:28:12,190 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-09 13:28:12,190 - __main__ - INFO - model_name == model4
+2018-04-09 13:28:12,190 - __main__ - INFO - big_loop == 1
+2018-04-09 13:28:12,190 - __main__ - INFO - scale_num == 4
+2018-04-09 13:28:12,190 - __main__ - INFO - epoch_init == 5000
+2018-04-09 13:28:12,190 - __main__ - INFO - strides == 20
+2018-04-09 13:28:12,190 - __main__ - INFO - batch_size == 4
+2018-04-09 13:28:12,190 - __main__ - INFO - max_idx == 92
+2018-04-09 13:28:12,190 - __main__ - INFO - data_size == 92
+2018-04-09 13:28:12,190 - __main__ - INFO - lr_init == 0.0001
+2018-04-09 13:28:12,190 - __main__ - INFO - learning_rate == 1e-05
+2018-04-09 13:28:12,190 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-09 13:28:12,190 - __main__ - INFO - use_vgg == False
+2018-04-09 13:28:12,190 - __main__ - INFO - use_L1_loss == False
+2018-04-09 13:28:12,190 - __main__ - INFO - wgan == False
+2018-04-09 13:28:12,190 - __main__ - INFO - init_g == True
+2018-04-09 13:28:12,191 - __main__ - INFO - init_d == True
+2018-04-09 13:28:12,191 - __main__ - INFO - init_b == False
+2018-04-09 13:28:12,191 - __main__ - INFO - method == 0
+2018-04-09 13:28:12,191 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-09 13:28:12,191 - __main__ - INFO - train_net == True
+2018-04-09 13:28:12,191 - __main__ - INFO - generate_pics == True
+2018-04-09 13:28:12,191 - __main__ - INFO - resume_network == False
+2018-04-09 13:28:12,191 - __main__ - INFO - start building the net
+2018-04-09 13:28:29,058 - __main__ - INFO - start training the net
+2018-04-10 10:37:26,967 - __main__ - INFO - end training the net
+2018-04-10 10:37:26,967 - __main__ - INFO - load params
+2018-04-10 10:37:27,769 - __main__ - INFO - read pics
+2018-04-10 10:37:27,829 - __main__ - INFO - start evaluating pics
+2018-04-10 10:37:29,655 - __main__ - INFO - start evaluating pics
+2018-04-10 10:37:30,283 - __main__ - INFO - end evaluating pics
+2018-04-10 13:13:57,493 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-10 13:13:57,493 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-10 13:13:57,493 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-10 13:13:57,493 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-10 13:13:57,493 - __main__ - INFO - test_output_dir == test_output/
+2018-04-10 13:13:57,493 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-10 13:13:57,493 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-10 13:13:57,493 - __main__ - INFO - model_name == model4
+2018-04-10 13:13:57,494 - __main__ - INFO - big_loop == 1
+2018-04-10 13:13:57,494 - __main__ - INFO - scale_num == 4
+2018-04-10 13:13:57,494 - __main__ - INFO - epoch_init == 5000
+2018-04-10 13:13:57,494 - __main__ - INFO - strides == 20
+2018-04-10 13:13:57,494 - __main__ - INFO - batch_size == 4
+2018-04-10 13:13:57,494 - __main__ - INFO - max_idx == 92
+2018-04-10 13:13:57,494 - __main__ - INFO - data_size == 92
+2018-04-10 13:13:57,494 - __main__ - INFO - lr_init == 0.0001
+2018-04-10 13:13:57,494 - __main__ - INFO - learning_rate == 1e-05
+2018-04-10 13:13:57,494 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-10 13:13:57,494 - __main__ - INFO - use_vgg == False
+2018-04-10 13:13:57,494 - __main__ - INFO - use_L1_loss == False
+2018-04-10 13:13:57,494 - __main__ - INFO - wgan == False
+2018-04-10 13:13:57,494 - __main__ - INFO - init_g == True
+2018-04-10 13:13:57,494 - __main__ - INFO - init_d == True
+2018-04-10 13:13:57,494 - __main__ - INFO - init_b == False
+2018-04-10 13:13:57,494 - __main__ - INFO - method == 0
+2018-04-10 13:13:57,494 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-10 13:13:57,494 - __main__ - INFO - train_net == True
+2018-04-10 13:13:57,494 - __main__ - INFO - generate_pics == True
+2018-04-10 13:13:57,494 - __main__ - INFO - resume_network == False
+2018-04-10 13:13:57,494 - __main__ - INFO - start building the net
+2018-04-10 13:14:19,328 - __main__ - INFO - start training the net
+2018-04-11 09:23:22,269 - __main__ - INFO - end training the net
+2018-04-11 09:23:22,269 - __main__ - INFO - load params
+2018-04-11 09:23:23,124 - __main__ - INFO - read pics
+2018-04-11 09:23:23,150 - __main__ - INFO - start evaluating pics
+2018-04-11 09:23:24,842 - __main__ - INFO - start evaluating pics
+2018-04-11 09:23:25,579 - __main__ - INFO - end evaluating pics
+2018-04-11 10:37:07,339 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-11 10:37:07,339 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-11 10:37:07,339 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-11 10:37:07,339 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-11 10:37:07,339 - __main__ - INFO - test_output_dir == test_output/
+2018-04-11 10:37:07,339 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-11 10:37:07,339 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-11 10:37:07,340 - __main__ - INFO - model_name == model4
+2018-04-11 10:37:07,340 - __main__ - INFO - big_loop == 1
+2018-04-11 10:37:07,340 - __main__ - INFO - scale_num == 4
+2018-04-11 10:37:07,340 - __main__ - INFO - epoch_init == 5000
+2018-04-11 10:37:07,340 - __main__ - INFO - strides == 20
+2018-04-11 10:37:07,340 - __main__ - INFO - batch_size == 4
+2018-04-11 10:37:07,340 - __main__ - INFO - max_idx == 92
+2018-04-11 10:37:07,340 - __main__ - INFO - data_size == 92
+2018-04-11 10:37:07,340 - __main__ - INFO - lr_init == 0.0001
+2018-04-11 10:37:07,340 - __main__ - INFO - learning_rate == 1e-05
+2018-04-11 10:37:07,340 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-11 10:37:07,341 - __main__ - INFO - use_vgg == False
+2018-04-11 10:37:07,341 - __main__ - INFO - use_L1_loss == False
+2018-04-11 10:37:07,341 - __main__ - INFO - wgan == False
+2018-04-11 10:37:07,341 - __main__ - INFO - init_g == True
+2018-04-11 10:37:07,341 - __main__ - INFO - init_d == True
+2018-04-11 10:37:07,341 - __main__ - INFO - init_b == False
+2018-04-11 10:37:07,341 - __main__ - INFO - method == 0
+2018-04-11 10:37:07,341 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-11 10:37:07,341 - __main__ - INFO - train_net == True
+2018-04-11 10:37:07,341 - __main__ - INFO - generate_pics == True
+2018-04-11 10:37:07,341 - __main__ - INFO - resume_network == False
+2018-04-11 10:37:07,342 - __main__ - INFO - start building the net
+2018-04-11 10:37:29,541 - __main__ - INFO - start training the net
+2018-04-11 23:58:19,595 - __main__ - INFO - end training the net
+2018-04-11 23:58:19,596 - __main__ - INFO - load params
+2018-04-11 23:58:20,345 - __main__ - INFO - read pics
+2018-04-11 23:58:20,372 - __main__ - INFO - start evaluating pics
+2018-04-11 23:58:22,130 - __main__ - INFO - start evaluating pics
+2018-04-11 23:58:22,797 - __main__ - INFO - end evaluating pics
+2018-04-12 13:32:04,421 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-12 13:32:04,421 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-12 13:32:04,421 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-12 13:32:04,421 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-12 13:32:04,421 - __main__ - INFO - test_output_dir == test_output/
+2018-04-12 13:32:04,421 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-12 13:32:04,421 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-12 13:32:04,421 - __main__ - INFO - model_name == model4
+2018-04-12 13:32:04,422 - __main__ - INFO - big_loop == 1
+2018-04-12 13:32:04,422 - __main__ - INFO - scale_num == 4
+2018-04-12 13:32:04,422 - __main__ - INFO - epoch_init == 5000
+2018-04-12 13:32:04,422 - __main__ - INFO - strides == 20
+2018-04-12 13:32:04,422 - __main__ - INFO - batch_size == 4
+2018-04-12 13:32:04,422 - __main__ - INFO - max_idx == 92
+2018-04-12 13:32:04,422 - __main__ - INFO - data_size == 92
+2018-04-12 13:32:04,422 - __main__ - INFO - lr_init == 0.0001
+2018-04-12 13:32:04,422 - __main__ - INFO - learning_rate == 1e-05
+2018-04-12 13:32:04,422 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-12 13:32:04,422 - __main__ - INFO - use_vgg == False
+2018-04-12 13:32:04,422 - __main__ - INFO - use_L1_loss == False
+2018-04-12 13:32:04,422 - __main__ - INFO - wgan == False
+2018-04-12 13:32:04,422 - __main__ - INFO - init_g == True
+2018-04-12 13:32:04,422 - __main__ - INFO - init_d == True
+2018-04-12 13:32:04,422 - __main__ - INFO - init_b == False
+2018-04-12 13:32:04,422 - __main__ - INFO - method == 0
+2018-04-12 13:32:04,422 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-12 13:32:04,422 - __main__ - INFO - train_net == True
+2018-04-12 13:32:04,422 - __main__ - INFO - generate_pics == True
+2018-04-12 13:32:04,422 - __main__ - INFO - resume_network == False
+2018-04-12 13:32:04,422 - __main__ - INFO - start building the net
+2018-04-12 13:32:23,564 - __main__ - INFO - start training the net
+2018-04-13 02:58:03,358 - __main__ - INFO - end training the net
+2018-04-13 02:58:03,358 - __main__ - INFO - load params
+2018-04-13 02:58:04,071 - __main__ - INFO - read pics
+2018-04-13 02:58:04,105 - __main__ - INFO - start evaluating pics
+2018-04-13 02:58:05,502 - __main__ - INFO - start evaluating pics
+2018-04-13 02:58:06,041 - __main__ - INFO - end evaluating pics
+2018-04-13 12:31:43,809 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-13 12:31:43,810 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-13 12:31:43,811 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-13 12:31:43,811 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-13 12:31:43,812 - __main__ - INFO - test_output_dir == test_output/
+2018-04-13 12:31:43,812 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-13 12:31:43,812 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-13 12:31:43,812 - __main__ - INFO - model_name == model4
+2018-04-13 12:31:43,812 - __main__ - INFO - big_loop == 1
+2018-04-13 12:31:43,812 - __main__ - INFO - scale_num == 4
+2018-04-13 12:31:43,812 - __main__ - INFO - epoch_init == 5000
+2018-04-13 12:31:43,812 - __main__ - INFO - strides == 20
+2018-04-13 12:31:43,812 - __main__ - INFO - batch_size == 4
+2018-04-13 12:31:43,813 - __main__ - INFO - max_idx == 92
+2018-04-13 12:31:43,813 - __main__ - INFO - data_size == 92
+2018-04-13 12:31:43,813 - __main__ - INFO - lr_init == 1e-05
+2018-04-13 12:31:43,813 - __main__ - INFO - learning_rate == 1e-05
+2018-04-13 12:31:43,813 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-13 12:31:43,813 - __main__ - INFO - use_vgg == False
+2018-04-13 12:31:43,813 - __main__ - INFO - use_L1_loss == False
+2018-04-13 12:31:43,813 - __main__ - INFO - wgan == False
+2018-04-13 12:31:43,813 - __main__ - INFO - init_g == True
+2018-04-13 12:31:43,813 - __main__ - INFO - init_d == True
+2018-04-13 12:31:43,814 - __main__ - INFO - init_b == False
+2018-04-13 12:31:43,814 - __main__ - INFO - method == 0
+2018-04-13 12:31:43,814 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-13 12:31:43,814 - __main__ - INFO - train_net == True
+2018-04-13 12:31:43,814 - __main__ - INFO - generate_pics == True
+2018-04-13 12:31:43,814 - __main__ - INFO - resume_network == False
+2018-04-13 12:31:43,814 - __main__ - INFO - start building the net
+2018-04-13 12:32:00,228 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-13 12:32:00,228 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-13 12:32:00,228 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-13 12:32:00,228 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-13 12:32:00,228 - __main__ - INFO - test_output_dir == test_output/
+2018-04-13 12:32:00,228 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-13 12:32:00,228 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-13 12:32:00,229 - __main__ - INFO - model_name == model4
+2018-04-13 12:32:00,229 - __main__ - INFO - big_loop == 1
+2018-04-13 12:32:00,229 - __main__ - INFO - scale_num == 4
+2018-04-13 12:32:00,229 - __main__ - INFO - epoch_init == 5000
+2018-04-13 12:32:00,229 - __main__ - INFO - strides == 20
+2018-04-13 12:32:00,229 - __main__ - INFO - batch_size == 4
+2018-04-13 12:32:00,229 - __main__ - INFO - max_idx == 92
+2018-04-13 12:32:00,229 - __main__ - INFO - data_size == 92
+2018-04-13 12:32:00,229 - __main__ - INFO - lr_init == 1e-05
+2018-04-13 12:32:00,229 - __main__ - INFO - learning_rate == 1e-05
+2018-04-13 12:32:00,229 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-13 12:32:00,229 - __main__ - INFO - use_vgg == False
+2018-04-13 12:32:00,229 - __main__ - INFO - use_L1_loss == False
+2018-04-13 12:32:00,229 - __main__ - INFO - wgan == False
+2018-04-13 12:32:00,229 - __main__ - INFO - init_g == True
+2018-04-13 12:32:00,229 - __main__ - INFO - init_d == True
+2018-04-13 12:32:00,229 - __main__ - INFO - init_b == False
+2018-04-13 12:32:00,229 - __main__ - INFO - method == 0
+2018-04-13 12:32:00,229 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-13 12:32:00,229 - __main__ - INFO - train_net == True
+2018-04-13 12:32:00,229 - __main__ - INFO - generate_pics == True
+2018-04-13 12:32:00,229 - __main__ - INFO - resume_network == False
+2018-04-13 12:32:00,229 - __main__ - INFO - start building the net
+2018-04-13 12:32:18,371 - __main__ - INFO - start training the net
+2018-04-13 12:42:14,760 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-13 12:42:14,760 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-13 12:42:14,762 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-13 12:42:14,762 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-13 12:42:14,762 - __main__ - INFO - test_output_dir == test_output/
+2018-04-13 12:42:14,762 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-13 12:42:14,762 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-13 12:42:14,762 - __main__ - INFO - model_name == model4
+2018-04-13 12:42:14,762 - __main__ - INFO - big_loop == 1
+2018-04-13 12:42:14,762 - __main__ - INFO - scale_num == 4
+2018-04-13 12:42:14,762 - __main__ - INFO - epoch_init == 5000
+2018-04-13 12:42:14,763 - __main__ - INFO - strides == 20
+2018-04-13 12:42:14,763 - __main__ - INFO - batch_size == 4
+2018-04-13 12:42:14,763 - __main__ - INFO - max_idx == 92
+2018-04-13 12:42:14,763 - __main__ - INFO - data_size == 92
+2018-04-13 12:42:14,763 - __main__ - INFO - lr_init == 1e-05
+2018-04-13 12:42:14,763 - __main__ - INFO - learning_rate == 1e-05
+2018-04-13 12:42:14,763 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-13 12:42:14,763 - __main__ - INFO - use_vgg == False
+2018-04-13 12:42:14,763 - __main__ - INFO - use_L1_loss == False
+2018-04-13 12:42:14,763 - __main__ - INFO - wgan == False
+2018-04-13 12:42:14,764 - __main__ - INFO - init_g == True
+2018-04-13 12:42:14,764 - __main__ - INFO - init_d == True
+2018-04-13 12:42:14,764 - __main__ - INFO - init_b == False
+2018-04-13 12:42:14,764 - __main__ - INFO - method == 0
+2018-04-13 12:42:14,764 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-13 12:42:14,764 - __main__ - INFO - train_net == True
+2018-04-13 12:42:14,764 - __main__ - INFO - generate_pics == True
+2018-04-13 12:42:14,764 - __main__ - INFO - resume_network == False
+2018-04-13 12:42:14,764 - __main__ - INFO - start building the net
+2018-04-13 12:42:33,068 - __main__ - INFO - start training the net
+2018-04-14 02:41:53,171 - __main__ - INFO - end training the net
+2018-04-14 02:41:53,172 - __main__ - INFO - load params
+2018-04-14 02:41:53,835 - __main__ - INFO - read pics
+2018-04-14 02:41:53,861 - __main__ - INFO - start evaluating pics
+2018-04-14 02:41:55,300 - __main__ - INFO - start evaluating pics
+2018-04-14 02:41:55,820 - __main__ - INFO - end evaluating pics
+2018-04-14 13:56:15,809 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-14 13:56:15,809 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-14 13:56:15,809 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-14 13:56:15,809 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-14 13:56:15,809 - __main__ - INFO - test_output_dir == test_output/
+2018-04-14 13:56:15,809 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-14 13:56:15,810 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-14 13:56:15,810 - __main__ - INFO - model_name == model4
+2018-04-14 13:56:15,810 - __main__ - INFO - big_loop == 1
+2018-04-14 13:56:15,810 - __main__ - INFO - scale_num == 2
+2018-04-14 13:56:15,810 - __main__ - INFO - epoch_init == 50
+2018-04-14 13:56:15,810 - __main__ - INFO - strides == 20
+2018-04-14 13:56:15,810 - __main__ - INFO - batch_size == 4
+2018-04-14 13:56:15,810 - __main__ - INFO - max_idx == 92
+2018-04-14 13:56:15,810 - __main__ - INFO - data_size == 92
+2018-04-14 13:56:15,810 - __main__ - INFO - lr_init == 0.0001
+2018-04-14 13:56:15,810 - __main__ - INFO - learning_rate == 1e-05
+2018-04-14 13:56:15,810 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-14 13:56:15,810 - __main__ - INFO - use_vgg == False
+2018-04-14 13:56:15,810 - __main__ - INFO - use_L1_loss == False
+2018-04-14 13:56:15,810 - __main__ - INFO - wgan == False
+2018-04-14 13:56:15,810 - __main__ - INFO - init_g == True
+2018-04-14 13:56:15,810 - __main__ - INFO - init_d == True
+2018-04-14 13:56:15,810 - __main__ - INFO - init_b == False
+2018-04-14 13:56:15,810 - __main__ - INFO - method == 0
+2018-04-14 13:56:15,810 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-14 13:56:15,810 - __main__ - INFO - train_net == True
+2018-04-14 13:56:15,810 - __main__ - INFO - generate_pics == True
+2018-04-14 13:56:15,810 - __main__ - INFO - resume_network == False
+2018-04-14 13:56:15,810 - __main__ - INFO - start building the net
+2018-04-14 14:00:21,417 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-14 14:00:21,417 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-14 14:00:21,417 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-14 14:00:21,417 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-14 14:00:21,417 - __main__ - INFO - test_output_dir == test_output/
+2018-04-14 14:00:21,417 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-14 14:00:21,418 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-14 14:00:21,418 - __main__ - INFO - model_name == model4
+2018-04-14 14:00:21,418 - __main__ - INFO - big_loop == 1
+2018-04-14 14:00:21,418 - __main__ - INFO - scale_num == 2
+2018-04-14 14:00:21,418 - __main__ - INFO - epoch_init == 50
+2018-04-14 14:00:21,418 - __main__ - INFO - strides == 20
+2018-04-14 14:00:21,418 - __main__ - INFO - batch_size == 4
+2018-04-14 14:00:21,418 - __main__ - INFO - max_idx == 92
+2018-04-14 14:00:21,418 - __main__ - INFO - data_size == 92
+2018-04-14 14:00:21,418 - __main__ - INFO - lr_init == 0.0001
+2018-04-14 14:00:21,418 - __main__ - INFO - learning_rate == 1e-05
+2018-04-14 14:00:21,418 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-14 14:00:21,418 - __main__ - INFO - use_vgg == False
+2018-04-14 14:00:21,418 - __main__ - INFO - use_L1_loss == False
+2018-04-14 14:00:21,418 - __main__ - INFO - wgan == False
+2018-04-14 14:00:21,418 - __main__ - INFO - init_g == True
+2018-04-14 14:00:21,418 - __main__ - INFO - init_d == True
+2018-04-14 14:00:21,418 - __main__ - INFO - init_b == False
+2018-04-14 14:00:21,418 - __main__ - INFO - method == 0
+2018-04-14 14:00:21,418 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-14 14:00:21,418 - __main__ - INFO - train_net == True
+2018-04-14 14:00:21,418 - __main__ - INFO - generate_pics == True
+2018-04-14 14:00:21,418 - __main__ - INFO - resume_network == False
+2018-04-14 14:00:21,418 - __main__ - INFO - start building the net
+2018-04-14 14:00:39,945 - __main__ - INFO - start training the net
+2018-04-14 14:09:32,499 - __main__ - INFO - end training the net
+2018-04-14 14:09:32,499 - __main__ - INFO - load params
+2018-04-14 14:09:33,188 - __main__ - INFO - read pics
+2018-04-14 14:09:33,250 - __main__ - INFO - start evaluating pics
+2018-04-14 14:09:35,159 - __main__ - INFO - start evaluating pics
+2018-04-14 14:09:35,726 - __main__ - INFO - end evaluating pics
+2018-04-14 14:11:40,086 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-14 14:11:40,086 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-14 14:11:40,086 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-14 14:11:40,086 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-14 14:11:40,086 - __main__ - INFO - test_output_dir == test_output/
+2018-04-14 14:11:40,086 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-14 14:11:40,086 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-14 14:11:40,086 - __main__ - INFO - model_name == model4
+2018-04-14 14:11:40,086 - __main__ - INFO - big_loop == 1
+2018-04-14 14:11:40,086 - __main__ - INFO - scale_num == 2
+2018-04-14 14:11:40,086 - __main__ - INFO - epoch_init == 50
+2018-04-14 14:11:40,086 - __main__ - INFO - strides == 20
+2018-04-14 14:11:40,086 - __main__ - INFO - batch_size == 4
+2018-04-14 14:11:40,086 - __main__ - INFO - max_idx == 92
+2018-04-14 14:11:40,086 - __main__ - INFO - data_size == 92
+2018-04-14 14:11:40,086 - __main__ - INFO - lr_init == 0.0001
+2018-04-14 14:11:40,087 - __main__ - INFO - learning_rate == 1e-05
+2018-04-14 14:11:40,087 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-14 14:11:40,087 - __main__ - INFO - use_vgg == False
+2018-04-14 14:11:40,087 - __main__ - INFO - use_L1_loss == False
+2018-04-14 14:11:40,087 - __main__ - INFO - wgan == False
+2018-04-14 14:11:40,087 - __main__ - INFO - init_g == True
+2018-04-14 14:11:40,087 - __main__ - INFO - init_d == True
+2018-04-14 14:11:40,087 - __main__ - INFO - init_b == False
+2018-04-14 14:11:40,087 - __main__ - INFO - method == 0
+2018-04-14 14:11:40,087 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-14 14:11:40,087 - __main__ - INFO - train_net == True
+2018-04-14 14:11:40,087 - __main__ - INFO - generate_pics == True
+2018-04-14 14:11:40,087 - __main__ - INFO - resume_network == False
+2018-04-14 14:11:40,087 - __main__ - INFO - start building the net
+2018-04-14 14:11:58,751 - __main__ - INFO - start training the net
+2018-04-14 14:24:43,450 - __main__ - INFO - end training the net
+2018-04-14 14:24:43,450 - __main__ - INFO - load params
+2018-04-14 14:24:44,143 - __main__ - INFO - read pics
+2018-04-14 14:24:44,173 - __main__ - INFO - start evaluating pics
+2018-04-14 14:24:45,490 - __main__ - INFO - start evaluating pics
+2018-04-14 14:24:45,973 - __main__ - INFO - end evaluating pics
+2018-04-14 14:40:16,310 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-14 14:40:16,310 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-14 14:40:16,310 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-14 14:40:16,310 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-14 14:40:16,310 - __main__ - INFO - test_output_dir == test_output/
+2018-04-14 14:40:16,310 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-14 14:40:16,311 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-14 14:40:16,311 - __main__ - INFO - model_name == model4
+2018-04-14 14:40:16,311 - __main__ - INFO - big_loop == 1
+2018-04-14 14:40:16,311 - __main__ - INFO - scale_num == 2
+2018-04-14 14:40:16,311 - __main__ - INFO - epoch_init == 5000
+2018-04-14 14:40:16,311 - __main__ - INFO - strides == 20
+2018-04-14 14:40:16,311 - __main__ - INFO - batch_size == 4
+2018-04-14 14:40:16,311 - __main__ - INFO - max_idx == 92
+2018-04-14 14:40:16,311 - __main__ - INFO - data_size == 92
+2018-04-14 14:40:16,311 - __main__ - INFO - lr_init == 0.0001
+2018-04-14 14:40:16,311 - __main__ - INFO - learning_rate == 1e-05
+2018-04-14 14:40:16,311 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-14 14:40:16,311 - __main__ - INFO - use_vgg == False
+2018-04-14 14:40:16,311 - __main__ - INFO - use_L1_loss == False
+2018-04-14 14:40:16,311 - __main__ - INFO - wgan == False
+2018-04-14 14:40:16,311 - __main__ - INFO - init_g == True
+2018-04-14 14:40:16,311 - __main__ - INFO - init_d == True
+2018-04-14 14:40:16,311 - __main__ - INFO - init_b == False
+2018-04-14 14:40:16,311 - __main__ - INFO - method == 0
+2018-04-14 14:40:16,311 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-14 14:40:16,311 - __main__ - INFO - train_net == True
+2018-04-14 14:40:16,312 - __main__ - INFO - generate_pics == True
+2018-04-14 14:40:16,312 - __main__ - INFO - resume_network == False
+2018-04-14 14:40:16,312 - __main__ - INFO - start building the net
+2018-04-14 14:40:34,868 - __main__ - INFO - start training the net
+2018-04-15 10:43:18,833 - __main__ - INFO - end training the net
+2018-04-15 10:43:18,833 - __main__ - INFO - load params
+2018-04-15 10:43:19,692 - __main__ - INFO - read pics
+2018-04-15 10:43:19,718 - __main__ - INFO - start evaluating pics
+2018-04-15 10:43:21,298 - __main__ - INFO - start evaluating pics
+2018-04-15 10:43:21,957 - __main__ - INFO - end evaluating pics
+2018-04-15 13:21:45,669 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-15 13:21:45,670 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-15 13:21:45,670 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-15 13:21:45,670 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-15 13:21:45,670 - __main__ - INFO - test_output_dir == test_output/
+2018-04-15 13:21:45,670 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-15 13:21:45,670 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-15 13:21:45,670 - __main__ - INFO - model_name == model4
+2018-04-15 13:21:45,670 - __main__ - INFO - big_loop == 1
+2018-04-15 13:21:45,670 - __main__ - INFO - scale_num == 2
+2018-04-15 13:21:45,670 - __main__ - INFO - epoch_init == 5000
+2018-04-15 13:21:45,670 - __main__ - INFO - strides == 20
+2018-04-15 13:21:45,671 - __main__ - INFO - batch_size == 4
+2018-04-15 13:21:45,671 - __main__ - INFO - max_idx == 92
+2018-04-15 13:21:45,671 - __main__ - INFO - data_size == 92
+2018-04-15 13:21:45,671 - __main__ - INFO - lr_init == 0.0001
+2018-04-15 13:21:45,671 - __main__ - INFO - learning_rate == 1e-05
+2018-04-15 13:21:45,671 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-15 13:21:45,671 - __main__ - INFO - use_vgg == False
+2018-04-15 13:21:45,671 - __main__ - INFO - use_L1_loss == False
+2018-04-15 13:21:45,671 - __main__ - INFO - wgan == False
+2018-04-15 13:21:45,671 - __main__ - INFO - init_g == True
+2018-04-15 13:21:45,671 - __main__ - INFO - init_d == True
+2018-04-15 13:21:45,672 - __main__ - INFO - init_b == False
+2018-04-15 13:21:45,672 - __main__ - INFO - method == 0
+2018-04-15 13:21:45,672 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-15 13:21:45,672 - __main__ - INFO - train_net == True
+2018-04-15 13:21:45,672 - __main__ - INFO - generate_pics == True
+2018-04-15 13:21:45,672 - __main__ - INFO - resume_network == False
+2018-04-15 13:21:45,672 - __main__ - INFO - start building the net
+2018-04-15 13:22:07,810 - __main__ - INFO - start training the net
+2018-04-16 09:41:23,265 - __main__ - INFO - end training the net
+2018-04-16 09:41:23,265 - __main__ - INFO - load params
+2018-04-16 09:41:24,244 - __main__ - INFO - read pics
+2018-04-16 09:41:24,270 - __main__ - INFO - start evaluating pics
+2018-04-16 09:41:25,648 - __main__ - INFO - start evaluating pics
+2018-04-16 09:41:26,116 - __main__ - INFO - end evaluating pics
+2018-04-16 09:50:01,871 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-16 09:50:01,871 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-16 09:50:01,871 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-16 09:50:01,872 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-16 09:50:01,872 - __main__ - INFO - test_output_dir == test_output/
+2018-04-16 09:50:01,872 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-16 09:50:01,872 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-16 09:50:01,872 - __main__ - INFO - model_name == model4
+2018-04-16 09:50:01,872 - __main__ - INFO - big_loop == 1
+2018-04-16 09:50:01,872 - __main__ - INFO - scale_num == 2
+2018-04-16 09:50:01,872 - __main__ - INFO - epoch_init == 5000
+2018-04-16 09:50:01,872 - __main__ - INFO - strides == 20
+2018-04-16 09:50:01,872 - __main__ - INFO - batch_size == 4
+2018-04-16 09:50:01,872 - __main__ - INFO - max_idx == 92
+2018-04-16 09:50:01,872 - __main__ - INFO - data_size == 92
+2018-04-16 09:50:01,872 - __main__ - INFO - lr_init == 0.0001
+2018-04-16 09:50:01,872 - __main__ - INFO - learning_rate == 1e-05
+2018-04-16 09:50:01,872 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-16 09:50:01,872 - __main__ - INFO - use_vgg == False
+2018-04-16 09:50:01,872 - __main__ - INFO - use_L1_loss == False
+2018-04-16 09:50:01,872 - __main__ - INFO - wgan == False
+2018-04-16 09:50:01,872 - __main__ - INFO - init_g == True
+2018-04-16 09:50:01,872 - __main__ - INFO - init_d == True
+2018-04-16 09:50:01,872 - __main__ - INFO - init_b == False
+2018-04-16 09:50:01,872 - __main__ - INFO - method == 0
+2018-04-16 09:50:01,872 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-16 09:50:01,872 - __main__ - INFO - train_net == True
+2018-04-16 09:50:01,872 - __main__ - INFO - generate_pics == True
+2018-04-16 09:50:01,872 - __main__ - INFO - resume_network == False
+2018-04-16 09:50:01,872 - __main__ - INFO - start building the net
+2018-04-16 09:50:20,492 - __main__ - INFO - start training the net
+2018-04-17 00:01:26,950 - __main__ - INFO - end training the net
+2018-04-17 00:01:26,950 - __main__ - INFO - load params
+2018-04-17 00:01:27,651 - __main__ - INFO - read pics
+2018-04-17 00:01:27,681 - __main__ - INFO - start evaluating pics
+2018-04-17 00:01:29,015 - __main__ - INFO - start evaluating pics
+2018-04-17 00:01:29,478 - __main__ - INFO - end evaluating pics
+2018-04-18 11:54:23,775 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-18 11:54:23,776 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-18 11:54:23,776 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-18 11:54:23,776 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-18 11:54:23,776 - __main__ - INFO - test_output_dir == test_output/
+2018-04-18 11:54:23,776 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-18 11:54:23,776 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-18 11:54:23,776 - __main__ - INFO - model_name == model4
+2018-04-18 11:54:23,776 - __main__ - INFO - big_loop == 1
+2018-04-18 11:54:23,776 - __main__ - INFO - scale_num == 2
+2018-04-18 11:54:23,776 - __main__ - INFO - epoch_init == 5000
+2018-04-18 11:54:23,776 - __main__ - INFO - strides == 20
+2018-04-18 11:54:23,776 - __main__ - INFO - batch_size == 4
+2018-04-18 11:54:23,776 - __main__ - INFO - max_idx == 92
+2018-04-18 11:54:23,776 - __main__ - INFO - data_size == 92
+2018-04-18 11:54:23,776 - __main__ - INFO - lr_init == 0.0001
+2018-04-18 11:54:23,776 - __main__ - INFO - learning_rate == 1e-05
+2018-04-18 11:54:23,777 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-18 11:54:23,777 - __main__ - INFO - use_vgg == False
+2018-04-18 11:54:23,777 - __main__ - INFO - use_L1_loss == False
+2018-04-18 11:54:23,777 - __main__ - INFO - wgan == False
+2018-04-18 11:54:23,777 - __main__ - INFO - init_g == True
+2018-04-18 11:54:23,777 - __main__ - INFO - init_d == True
+2018-04-18 11:54:23,777 - __main__ - INFO - init_b == False
+2018-04-18 11:54:23,777 - __main__ - INFO - method == 0
+2018-04-18 11:54:23,777 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-18 11:54:23,777 - __main__ - INFO - train_net == True
+2018-04-18 11:54:23,777 - __main__ - INFO - generate_pics == True
+2018-04-18 11:54:23,777 - __main__ - INFO - resume_network == False
+2018-04-18 11:54:23,777 - __main__ - INFO - start building the net
+2018-04-18 11:54:45,657 - __main__ - INFO - start training the net
+2018-04-19 01:37:42,368 - __main__ - INFO - end training the net
+2018-04-19 01:37:42,368 - __main__ - INFO - load params
+2018-04-19 01:37:43,117 - __main__ - INFO - read pics
+2018-04-19 01:37:43,147 - __main__ - INFO - start evaluating pics
+2018-04-19 01:37:44,738 - __main__ - INFO - start evaluating pics
+2018-04-19 01:37:45,213 - __main__ - INFO - end evaluating pics
+2018-04-19 10:56:56,859 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-19 10:56:56,859 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-19 10:56:56,859 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-19 10:56:56,859 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-19 10:56:56,859 - __main__ - INFO - test_output_dir == test_output/
+2018-04-19 10:56:56,859 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-19 10:56:56,859 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-19 10:56:56,859 - __main__ - INFO - model_name == model4
+2018-04-19 10:56:56,860 - __main__ - INFO - big_loop == 1
+2018-04-19 10:56:56,860 - __main__ - INFO - scale_num == 2
+2018-04-19 10:56:56,860 - __main__ - INFO - epoch_init == 5
+2018-04-19 10:56:56,860 - __main__ - INFO - strides == 20
+2018-04-19 10:56:56,860 - __main__ - INFO - batch_size == 4
+2018-04-19 10:56:56,860 - __main__ - INFO - max_idx == 92
+2018-04-19 10:56:56,860 - __main__ - INFO - data_size == 92
+2018-04-19 10:56:56,860 - __main__ - INFO - lr_init == 0.0001
+2018-04-19 10:56:56,860 - __main__ - INFO - learning_rate == 1e-05
+2018-04-19 10:56:56,860 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-19 10:56:56,860 - __main__ - INFO - use_vgg == False
+2018-04-19 10:56:56,860 - __main__ - INFO - use_L1_loss == False
+2018-04-19 10:56:56,860 - __main__ - INFO - wgan == False
+2018-04-19 10:56:56,860 - __main__ - INFO - init_g == True
+2018-04-19 10:56:56,860 - __main__ - INFO - init_d == True
+2018-04-19 10:56:56,860 - __main__ - INFO - train_gan == False
+2018-04-19 10:56:56,860 - __main__ - INFO - init_b == False
+2018-04-19 10:56:56,860 - __main__ - INFO - method == 0
+2018-04-19 10:56:56,861 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-19 10:56:56,861 - __main__ - INFO - train_net == True
+2018-04-19 10:56:56,861 - __main__ - INFO - generate_pics == True
+2018-04-19 10:56:56,861 - __main__ - INFO - resume_network == False
+2018-04-19 10:56:56,861 - __main__ - INFO - start building the net
+2018-04-19 10:57:18,384 - __main__ - INFO - start training the net
+2018-04-19 10:59:11,819 - __main__ - INFO - top_dir == sr_noWS_reslike/
+2018-04-19 10:59:11,820 - __main__ - INFO - svg_dir == dataset/Test/
+2018-04-19 10:59:11,820 - __main__ - INFO - pxl_dir == dataset/Train/
+2018-04-19 10:59:11,820 - __main__ - INFO - output_dir == pic_smooth/
+2018-04-19 10:59:11,820 - __main__ - INFO - test_output_dir == test_output/
+2018-04-19 10:59:11,821 - __main__ - INFO - checkpoint_dir == save_model
+2018-04-19 10:59:11,821 - __main__ - INFO - checkpoint_dir1 == save_model
+2018-04-19 10:59:11,821 - __main__ - INFO - model_name == model4
+2018-04-19 10:59:11,821 - __main__ - INFO - big_loop == 1
+2018-04-19 10:59:11,821 - __main__ - INFO - scale_num == 2
+2018-04-19 10:59:11,821 - __main__ - INFO - epoch_init == 10000
+2018-04-19 10:59:11,822 - __main__ - INFO - strides == 20
+2018-04-19 10:59:11,822 - __main__ - INFO - batch_size == 4
+2018-04-19 10:59:11,822 - __main__ - INFO - max_idx == 92
+2018-04-19 10:59:11,822 - __main__ - INFO - data_size == 92
+2018-04-19 10:59:11,822 - __main__ - INFO - lr_init == 0.0001
+2018-04-19 10:59:11,823 - __main__ - INFO - learning_rate == 1e-05
+2018-04-19 10:59:11,823 - __main__ - INFO - vgg_weight_list == [1, 1, 0.5, 0.1]
+2018-04-19 10:59:11,823 - __main__ - INFO - use_vgg == False
+2018-04-19 10:59:11,823 - __main__ - INFO - use_L1_loss == False
+2018-04-19 10:59:11,823 - __main__ - INFO - wgan == False
+2018-04-19 10:59:11,824 - __main__ - INFO - init_g == True
+2018-04-19 10:59:11,824 - __main__ - INFO - init_d == True
+2018-04-19 10:59:11,824 - __main__ - INFO - train_gan == False
+2018-04-19 10:59:11,824 - __main__ - INFO - init_b == False
+2018-04-19 10:59:11,824 - __main__ - INFO - method == 0
+2018-04-19 10:59:11,824 - __main__ - INFO - lowest_resolution_log2 == 4
+2018-04-19 10:59:11,825 - __main__ - INFO - train_net == True
+2018-04-19 10:59:11,825 - __main__ - INFO - generate_pics == True
+2018-04-19 10:59:11,825 - __main__ - INFO - resume_network == False
+2018-04-19 10:59:11,825 - __main__ - INFO - start building the net
+2018-04-19 10:59:33,029 - __main__ - INFO - start training the net
